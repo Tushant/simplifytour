@@ -1,0 +1,47 @@
+{% load packages_tags i18n future staticfiles %}
+
+<ol>
+    {% for package in package_branch %}
+    <li id="ordering_{{ package.id }}">
+        <div class="{% cycle 'row1' 'row2' %}">
+            <a href="#" class="tree-toggle" id="package-{{ package.id }}"
+                {% if not package.has_children %}style="visibility:hidden;"{% endif %}>
+                <span class="icon open">+</span>
+                <span class="icon close">-</span>
+            </a>
+            {% set_package_permissions package %}
+            {% if package.perms.delete %}
+            <a href="{% url "admin:packages_package_delete" package.id %}?fromtree" class="delete"></a>
+            {% else %}
+            <span class="delete" style="background:none;"></span>
+            {% endif %}
+            {% if package.perms.change %}
+            <a href="{% url "admin:packages_package_change" package.id %}{% if not package.is_primary %}?parent={{ package.parent_id }}{% endif %}"
+                class="changelink">{{ package.title }}</a>
+            {% else %}
+            <span class="uneditable">{{ package.title }}</span>
+            {% endif %}
+            <span class="ordering"{% if not package.perms.change %}
+                style="visibility:hidden;"{% endif %}>
+                <img src="{% static settings.simplifytour_ADMIN_PREFIX|add:"img/admin/arrow-up.gif" %}">
+                <img src="{% static settings.simplifytour_ADMIN_PREFIX|add:"img/admin/arrow-down.gif" %}">
+            </span>
+            {% if package.perms.add %}
+            <select class="addlist" id="addlink-{{ package.id }}">
+                <option value="">{% trans "Add" %} ...</option>
+                {% for model in package_models %}
+                    {% set_model_permissions model %}
+                    {% if model.perms.add %}
+                    <option value="{{ model.add_url }}?parent={{ package.id }}"
+                        >{{ model.meta_verbose_name|capfirst }}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            {% endif %}
+
+        </div>
+        <br style="clear:both;">
+        {% if package.has_children %}{% package_menu package %}{% endif %}
+    </li>
+    {% endfor %}
+</ol>

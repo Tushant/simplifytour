@@ -1,0 +1,48 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+celery = "*"
+whitenoise = "*"
+redis = "*"
+django-celery-beat = "*"
+flower = "*"
+django-environ = "*"
+django-redis = "*"
+"flake8" = "*"
+coverage = "*"
+pylint-django = "*"
+pylint-celery = "*"
+django-debug-toolbar = "*"
+django-extensions = "*"
+gunicorn = "*"
+sentry-sdk = "*"
+django-storages = {extras = ["boto3"], version = "*"}
+django-anymail = {extras = ["mailgun"], version = "*"}
+pillow = "*"
+"psycopg2-binary" = "*"
+graphene-django = "*"
+django-cors-headers = "*"
+django-graphql-social-auth = "*"
+django-money = "*"
+django-phonenumber-field = "*"
+phonenumbers = "*"
+django-graphql-jwt = "*"
+"argon2-cffi" = "*"
+djoser = "*"
+bleach = "*"
+jsonfield = "*"
+future = "*"
+django-contrib-comments = "*"
+tzlocal = "*"
+
+[dev-packages]
+werkzeug = "*"
+"autopep8" = "*"
+
+[requires]
+python_version = "3.7"

@@ -1,0 +1,19 @@
+{% load simplifytour_tags %}
+
+
+{% spaceless %}
+{% for item in itinerary %}
+     <div class="itinerary-list">
+        <strong class="day-count">
+          <span class="day">Day</span>
+          <span class="no">{{ item.days_text }}</span>
+         </strong>
+        {% editable item.title item.description %}
+           <div class="info-block">
+            <span class="p-head">{{ item.title }}</span>
+            <p>{{item.description}}</p>
+           </div>
+        {% endeditable %}
+     </div>
+{% endfor %}
+{% endspaceless %}

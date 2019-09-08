@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load simplifytour_tags rating_tags pages_tags packages_tags %}
+
+<title>{% block meta_title %}Packages{% endblock %}</title>
+
+{% block title %}
+{% firstof packages_title "Packages" %}
+{% endblock %}
+
+{% block main %}
+
+    <div class="row">
+    {% for package in packages %}
+      <div class="col-sm-6 col-lg-4">
+        <div class="thumbnail package">
+            <div class="thumbnail-img">
+          <a href="{% url "package" package.slug %}">
+            <img src="{{MEDIA_URL}}{% thumbnail package.featured_image 375 216 %}" alt="image description">
+          </a>
+            </div>
+            <div class="caption">
+              <h4><a href="{% url "package" package.slug %}">{{ package.title }}</a></h4>
+              <div class="star-rating">{% rating_for package.get_content_model %}</div>
+              <div class="package-info"><i class="fa fa-calendar"></i>&nbsp;{% if package.days > 1 %}{{package.days}} days{% else %}{{package.days}} day{% endif %} package</div>
+            </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+
+{% endblock %}
+{% block footer-nav %}
+{%endblock %}

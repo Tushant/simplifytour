@@ -1,0 +1,71 @@
+{% extends "admin/change_list.html" %}
+{% load packages_tags i18n future staticfiles %}
+
+{% block extrahead %}
+{{ block.super }}
+<link rel="stylesheet" href="{% static "simplifytour/css/admin/page_tree.css" %}">
+
+<style>
+.delete {width:10px; height:10px; margin:2px 4px 0 10px; display:block; float:right; background:url('{% static settings.simplifytour_ADMIN_PREFIX|add:"img/admin/icon_deletelink.gif" %}');}
+.grappelli-delete {width:11px; height:11px; margin:4px 4px 0 10px; background:url('{% static settings.simplifytour_ADMIN_PREFIX|add:"img/icons/icon-inline_item_tools-deletelink.png" %}');}
+.grappelli-delete:hover {background:url('{% static settings.simplifytour_ADMIN_PREFIX|add:"img/icons/icon-inline_item_tools-deletelink-hover.png" %}');}
+</style>
+<link rel="stylesheet" type="text/css" href="{% static "grappelli/css/changelist.css" %}" />
+    {% if not actions_on_top and not actions_on_bottom %}
+    <style>#changelist table thead th:first-child {width: inherit}</style>
+    {% endif %}
+    <style>
+    #changelist .actions {padding:7px;}
+    #changelist .actions label {background:none; padding:0; margin:0;}
+    </style>
+<script>window.__package_ordering_url = '{% url "admin_package_ordering" %}';</script>
+<script src="{% static "simplifytour/js/jquery-ui-1.9.1.custom.min.js" %}"></script>
+<script src="{% static "simplifytour/js/admin/jquery.mjs.nestedSortable.js" %}"></script>
+<script src="{% static "simplifytour/js/admin/page_tree.js" %}"></script>
+{% endblock %}
+
+
+{% block content %}
+<div id="content-main">
+    {% if has_add_permission %}
+    <div id="addlist-primary">
+        <select class="addlist">
+            <option value="">{% trans "Add" %} ...</option>
+            {% for model in package_models %}
+			    {% set_model_permissions model %}
+			    {% if model.perms.add %}
+                <option value="{{ model.add_url }}">{{ model.meta_verbose_name|capfirst }}</option>
+                {% endif %}
+            {% endfor %}
+        </select>
+    </div>
+    {% endif %}
+
+    {% if cl.result_count == 0 %}
+    <p class="paginator">0 {{ cl.opts.verbose_name_plural }}</p>
+    {% else %}
+    <div id="tree">{% package_menu "packages/menus/admin.html" %}</div>
+    {% endif %}
+    <div class="changelist-filter">
+    <div class="module search">
+        <h2>Search</h2>
+        <div id="toolbar">
+            <form id="changelist-search" action="" method="get">
+            <div><!-- DIV needed for valid HTML -->
+                <div class="form-row">
+                    
+                    <input type="text" size="40" name="q" value="" id="searchbar" class="search-fields-verbose">
+                    <input type="submit" value="">
+                </div>
+            </div>
+            
+            </form>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+    <script type="text/javascript">document.getElementById("searchbar").focus();</script>
+
+{% endblock %}

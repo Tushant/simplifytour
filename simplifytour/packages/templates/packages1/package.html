@@ -1,0 +1,196 @@
+{% extends "base.html" %}
+{% load staticfiles future i18n simplifytour_tags  packages_tags keyword_tags rating_tags app_tags  %}
+
+{% block meta_title %}{{ package.meta_title }}{% endblock %}
+
+{% block meta_keywords %}{% metablock %}
+{% keywords_for package as keywords %}
+{% for keyword in keywords %}
+    {% if not forloop.first %}, {% endif %}
+    {{ keyword }}
+{% endfor %}
+{% endmetablock %}{% endblock %}
+
+{% block meta_description %}{% metablock %}
+{{ package.description }}
+{% endmetablock %}{% endblock %}
+
+
+{% block title%}
+{% editable package.title %}
+{{package.title}} ({{ total_days }} days)
+{% endeditable %}
+{% endblock %}
+
+
+
+{% block main %}
+<div class="row">
+    <div class="col-lg-8">
+        {% if package.featured_image %}
+        {% editable package.featured_image %}
+            <div class="span12 featured-image-pack" 
+            style="background-image:url('{{MEDIA_URL}}{% thumbnail package.featured_image 750 0 %}')">
+            </div>
+        {% endeditable %}
+        {% endif %}
+        <!--tab start-->
+        <section class="panel tab ">
+            <div class="pull-right" style="padding:18px;" title="{{rate}}">
+                {% rating_for package.get_content_model %}
+            </div>
+            <header class="panel-heading tab-bg-dark-navy-blue col-lg-8">
+            
+                <ul class="nav nav-tabs nav-justified ">
+                    <li class="active">
+                        <a data-toggle="tab" href="#itinerary" aria-expanded="true">
+                           {% trans 'Itinerary' %}
+                        </a>
+                    </li>
+                    <li class="">
+                        <a data-toggle="tab" href="#description" aria-expanded="false">
+                            {% trans 'Description' %}
+                        </a>
+                    </li>
+                    <li class="">
+                        <a data-toggle="tab" href="#includes" aria-expanded="false">
+                            {% trans 'Includes' %}
+                        </a>
+                    </li>
+                    <li class="">
+                        <a data-toggle="tab" href="#excludes" aria-expanded="false">
+                            {% trans 'Excludes' %}
+                        </a>
+                    </li>
+                </ul>
+            </header>
+            <div class="panel-body">
+                <div class="tab-content tasi-tab col-lg-12">
+                    <div id="itinerary" class="tab-pane active">
+                    {% itinerary_for package %}
+                    </div>
+                    <div id="description" class="tab-pane  align-article">
+                        {% editable package.content %}
+                            {{ package.content|richtext_filters|safe }}
+                        {% endeditable %}
+                    </div>
+                    <div id="includes" class="tab-pane">
+                        {% editable package.include %}
+                            {{ package.include|richtext_filters|safe }}
+                        {% endeditable %}
+                    </div>
+                    <div id="excludes" class="tab-pane">
+                        {% editable package.exclude %}
+                            {{ package.exclude|richtext_filters|safe }}
+                        {% endeditable %}
+                    </div>
+
+                </div>
+                    
+            </div>
+        </section>
+            <!--tab end-->
+    </div>
+
+    <div class="col-lg-4" >
+                {% if package.other_info %}
+                <ul>
+                {% for info in package.other_info %}
+                <li>{{ info }}</li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+        <h3>{% trans 'Price' %}:</h3>
+        <section class="panel tab">
+        <header class="panel-heading tab-bg-dark-navy-blue">
+         <ul class="nav nav-tabs nav-justified tab-price ">
+                    {% for price in package.prices.all %}
+                    {% with price.standard|lower as lower %}
+                    <li>
+                        <a data-toggle="tab" href="#{{ lower }}" aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}">
+                        {{price.standard_text}}
+                        </a>
+                    </li>
+                    {% endwith %}
+                    {% endfor %}
+
+        </ul>
+        </header>
+        <div class="panel-body">
+            <div class="tab-content tasi-tab price-content">
+            {% for price in package.prices.all %}
+                {% with price.standard|lower as lower %}
+                <div id="{{ lower }}" class="tab-pane {% if forloop.first %}active{% endif %}">
+                    <div class="price-includes">
+                    {% editable price.extra_content %}
+                        {% if price.extra_content %}
+                            {{price.extra_content|richtext_filters|safe}}
+                        {% else %}
+                            {% if request.user.is_staff %}
+                            <span class="staff-alert">Alert! This part is empty.</span>
+                            {% endif %}
+                        {% endif %}
+                    {% endeditable %}
+                    </div>
+                    
+                    <div class="package-price clearfix">
+                    {% editable price.price_notes price.marked_price price.discounted_price price.min_group_size price.max_group_size %}
+                        <span class="price-notes">{{ price.price_notes }}</span>
+                        <div>
+                            <span class="price-old" title="Marked price">USD &nbsp;{{ price.marked_price }}</span>
+                            <span class="price-new" title="Price per head">USD &nbsp;{{ price.discounted_price }}</span>
+                            (
+                                {% if price.min_group_size > 1 %} 
+                                    min: {{price.min_group_size}}, 
+                                {% endif %}
+                                {% if price.max_group_size > 0 %} 
+                                    max: {{price.max_group_size}}
+                                {% endif %}
+                            )
+                        </div>
+                        <a class="btn btn-info btn-sm" href="{% url 'booking' package.slug %}?offer={{price.pk}}">Book Now</a> <br/>
+                <a class="btn btn-link" href="{% url 'custom' package.slug %}">Customize this package</a>
+
+                    {% endeditable %}
+                    </div>
+                </div>
+                {% endwith %}
+            {% endfor %}
+            </div>
+        </div>
+    </section>
+            
+    {% related_keywords_for package %}
+
+    {% if package.related_blog_posts.all %}
+        <h3>{% trans 'Related Blog posts' %}:</h3>
+        <ul class="list-unstyled">
+        {% for post in package.related_blog_posts.all %}
+             <li><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    </div>
+</div>
+
+    
+
+{% endblock %}
+
+{% block footer-nav %}
+{%endblock %}
+
+{% block footer_js %}
+{{ block.super }}
+{% if request.user.is_staff %}
+<script type="text/javascript" src="/static/filebrowser/js/AddFileBrowser.js"></script>
+{% endif %}
+
+<script type="text/javascript">
+$(function() {
+  $(".tab-price li:eq(0)").addClass("active"),
+  $(".price-content div:eq(0)").addClass("active");
+});
+</script>
+
+{% endblock %}

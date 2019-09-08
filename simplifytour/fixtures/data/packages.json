@@ -1,0 +1,4250 @@
+[
+{
+  "pk": 1,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 3,
+    "title": "Everest View Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/namchhe.png",
+    "short_url": null,
+    "slug": "everest-view-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 0,
+    "description": "As compared to other trekking routes in the Everest Region, Everest view trekking is relatively easy and short as well as very spectacular. This trek takes you to introduce mountain villages, Sherpa people and their culture along with great views",
+    "rating_average": 3.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T05:51:40.811Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>4 nights' accommodation in Kathmandu</p>\n<p>Breakfast and accommodation on trek</p>\n<p>All necessary paper works and Sagarmatha National Park entry permit</p>\n<p>All accommodations in lodges/tea houses during the trek.</p>\n<p>Trekkers\u2019 Information Management System (TIMS) Permit.</p>\n<p>An experienced, helpful, friendly and English speaking trekking Guide</p>\n<p>Necessary porters (1 porter for 2 people) each porter carries 30 kg</p>\n<p>Salary, Food, Drinks, Accommodation, domestic flight &amp; Insurance of our trekking guide</p>\n<p>Salary, Food, Drinks, Accommodation, and Insurance for porters from Lukla</p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>13% VAT and service charge</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": true,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Your international flight ticket and airport departure tax</p>\n<p>Nepal Entry Visa</p>\n<p>Lunch and dinner in Kathmandu</p>\n<p>Bottled drinks (mineral water, any cold drinks &amp; alcoholic drinks) while on trek</p>\n<p>Travel, medical &amp; emergency rescue by helicopter (need to pay by your insurance)</p>\n<p>Arrangement of Helicopter service for rescue in case of emergency in the mountain (the\u00a0<span>cost incurred during the rescue will be paid by your insurance company)</span></p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Expenses of personal nature such as laundry, telephone, bar bills, tips, battery recharge,\u00a0<span>extra porters, bottle or boiled water, shower etc</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>As compared to other trekking routes in the Everest Region, Everest view trekking is relatively\u00a0<span>easy and short as well as very spectacular. This trek takes you to introduce mountain villages,\u00a0</span><span>Sherpa people and their culture along with great views of world\u2019s highest mountains including\u00a0</span><span>Mt. Everest.</span></p>\n<p>Everest view trekking starts with a half an hour mountain flight from Kathmandu to Lukla. After\u00a0<span>you land at Lukla airstrip you begin trek heading to Phakding where you spend the first\u00a0</span><span>overnight in the mountain.. Next day morning you walk following Dudha Koshi River and then\u00a0</span><span>gently climb forests of rhododendron and magnolia and arrive at Namche Bazaar, a bustling\u00a0</span><span>Bazaar (market), a junction for trekkers. Here, at Namche Bazaar you spend one more extra day\u00a0</span><span>for acclimatization and excursion. On the rest day you make excursion to Syangboche, one of the\u00a0</span><span>major spots for the view of Mt. Everest, Mt. Lhotse, Mt. Ama Dablam, Mt. Thamserku, Mt.</span><span>Kangtega, Kwangde etc. Then, you walk down to Khumjung village, a typical Sherpa village.</span></p>\n<p>Sherpa are ethnic people of Everest region.\u00a0<span>Lots of the world renowned climbers such as Tenzing Norgay Sherpa, Apa Sherpa and many\u00a0</span><span>other climbers belong to this ethnic community. In Khumjung you meet local people, experience\u00a0</span><span>their lifestyle. Visiting Khumjung Monastery makes your walking more worthwhile. Next day\u00a0</span><span>you trek to Tengboche where a famous Sherpa Buddhist Monastery is located. In Tengboche you\u00a0</span><span>will meet Buddhist monks and see their daily rituals inside the Monastery. Tengboche is the final\u00a0</span><span>destination of Everest View Trekking. From here you return to Lukla via Namche Bazaar and\u00a0</span><span>take a flight back to Kathmandu.</span></p>\n<p>Everest View Trekking is ideal for older, family with children those people who desire to see\u00a0<span>world\u2019s high mountains including Mt. Everest within short days. Everest Panorama trek is also\u00a0</span><span>known by Everest Panorama Trek following the same itinerary and duration. This is a real\u00a0</span><span>holiday trekking you will ever remember in your lifetime.</span></p>",
+    "publish_date": "2015-04-16T05:28:01Z",
+    "titles": "Everest View Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-16T13:23:43.247Z"
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 3,
+    "title": "Annapurna Sanctuary Trekking                    ",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/annapurna.jpg",
+    "short_url": null,
+    "slug": "annapurna-sanctuary-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 1,
+    "description": "Annapurna Sanctuary Trekking is a picturesque walking journey that takes you to the foothills of the Annapurna South. It is also popularly called Annapurna Base Camp Trekking. Trekking to Annapurna Sanctuary is highly recommended for those who love to explore",
+    "rating_average": 3.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T06:26:10.328Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>4 night hotel accommodation in Kathmandu with breakfast</p>\n<p>3 night hotel accommodation in Pokhara with breakfast</p>\n<p>Trekking accommodation in trekkers lodge /Tea house</p>\n<p>English speaking local trekking guide</p>\n<p>Necessary porters to carry your baggage during the trekking.( Two persons get one\u00a0<span>trekking porter)</span></p>\n<p>Breakfast and accommodation on trek</p>\n<p>Annapurna\u00a0 Conservation area entry permit \u00a0</p>\n<p>Trekker\u2019s Information Management system (TIMS) permit</p>\n<p>Local transport as per the program</p>\n<p>Insurance for Nepalese staff. ( Trekking guide and porters)</p>\n<p>Guide and porters salary, food, drinks, accommodations</p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>13% VAT and service charge</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": true,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Lunch &amp; Dinner in Kathmandu and Pokhara \u00a0</p>\n<p>Nepal entry visa fee (you will easily get the visa upon your arrival at Tribhuwan\u00a0<span>International Airport)</span></p>\n<p>Your international flight ticket and airport departure tax</p>\n<p>Personal equipments</p>\n<p>Monuments entry fee during sightseeing tour of Pokhara valley</p>\n<p>High risk medical insurance</p>\n<p>Hot drinks , Alcoholic beverages, Telephone calls and laundry</p>\n<p>Soft drinks such as cola, mineral water</p>\n<p>Battery recharge, extra porters, shower etc during the trek</p>\n<p>Emergency rescue evacuation if needed (need to pay by your insurance)</p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>Annapurna Sanctuary Trekking is a picturesque walking journey that takes you to the foothills of\u00a0<span>the Annapurna South. It is also popularly called Annapurna Base Camp Trekking. Trekking to\u00a0</span><span>Annapurna Sanctuary is highly recommended for those who love to explore the rich cultural\u00a0</span><span>diversities, typical Nepalese villages, enjoy the flora and fauna and immerse in the panoramic\u00a0</span><span>view of Annapurna, Dhaulagiri Himalayan range.</span></p>\n<p>The journey to the Annapurna Sanctuary kicks off from Pokhara with a one-hour drive to\u00a0<span>Nayapul. From Nayapul we trek to Tikhedhunga (1540m.) passing through terraced fields of\u00a0</span><span>potatoes, mustard, corn and vegetables, past small villages of stone-built houses and then, higher\u00a0</span><span>altitude, through forests of bamboo and of flowering rhododendrons until you reach glaciated\u00a0</span><span>terrain. While on trek we enjoy outstanding Himalayan mountain views in the distance. From\u00a0</span><span>Chhomrong, we walk up the Modi Khola gorge which takes us into the heart of the sanctuary and\u00a0</span><span>some of the most dramatic mountain scenery on the planet.\u00a0</span></p>\n<p><span></span><span>Walking slowly and steadily you walk through Machhapuchare base camp and ultimately reach\u00a0</span><span>at Base Camp of Annapurna South. The huge south face of Annapurna (8090 m.) provides an\u00a0</span><span>impressive backdrop, while the up close views of towering peaks over 6000 m. inspires a joy and\u00a0</span><span>lifetime experience for every trekker. With superb views of Mt. Machhapuchhre, Annapurna\u00a0</span><span>South and Hiunchuli in the backdrop, the base camp is a great place to spend one or two days.\u00a0</span></p>\n<p><span></span><span>The extraordinary variety of ecosystem is compressed into two weeks of Annapurna Base Camp\u00a0</span><span>walking. The Annapurna south facing slope of the base camp is covered with dense of tropical\u00a0</span><span>jungle of rhododendron and bamboo. On the other hand, the alpine region above 3000 m in the\u00a0</span><span>north offers dry rain shadow area with colder climate similar to the Tibetan plateau.\u00a0</span><span>We return to Phedi via Dhampus (1650m.) and catch our vehicle for Pokhara. This area is well\u00a0</span><span>developed with lodge facilities.</span></p>",
+    "publish_date": "2015-04-16T06:06:13Z",
+    "titles": "Annapurna Sanctuary Trekking                    ",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-23T09:22:14.967Z"
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 4,
+    "title": "Everest Base Camp Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/mountain.jpg",
+    "short_url": null,
+    "slug": "everest-base-camp-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 2,
+    "description": "Everest Base Camp Trekking is one of the most adventurous and exciting treks that take you to the base of Everest- the world\u2019s highest mountain. This trekking has been listed as \u201cWorld\u2019s Best Hikes out of 20 Dream Trails\u201d by",
+    "rating_average": 4.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T06:55:56.528Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>4 nights standard accommodation in Kathmandu</p>\n<p>Breakfast and accommodation on trek</p>\n<p>All necessary paper works and Sagarmatha National Park entry permit</p>\n<p>All accommodations in lodges/tea houses during the trek.</p>\n<p>Trekkers\u2019 Information Management System (TIMS) Permit.</p>\n<p>An experienced, helpful, friendly and English speaking trekking Guide</p>\n<p>Necessary porters (1 porter for 2 people) each porter carries 12 kg</p>\n<p>Salary, Food, Drinks, Accommodation, domestic flight &amp; Insurance of our trekking guide</p>\n<p>Salary, Food, Drinks, Accommodation, and Insurance for porters from Lukla</p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p><span>13% VAT and service charge</span></p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": true,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Nepal Entry Visa</p>\n<p>Food in Kathmandu such as lunch and dinner</p>\n<p>Bottled drinks (mineral water, any cold drinks &amp; alcoholic drinks) while on trek</p>\n<p>Travel, medical &amp; emergency rescue by helicopter (need to pay by your insurance)</p>\n<p>Your international flight ticket and airport departure tax</p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Expenses of personal nature such as laundry, telephone, bar bills, tips, battery recharge,\u00a0<span>extra porters, bottle or boiled water, shower etc</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>Everest Base Camp Trekking is one of the most adventurous and exciting treks that take you to\u00a0<span>the base of Everest- the world\u2019s highest mountain. This trekking has been listed as \u201cWorld\u2019s Best\u00a0</span><span>Hikes out of 20 Dream Trails\u201d by National Geographic.</span></p>\n<p>The mountain scenery of the Everest region is incredibly beautiful. You will walk through multi-<span>hued prayer flags, prayer wheels and intricately carved Mani stones dotted every hilltop and rock</span><span>walls. You can see prayer flags fluttering in the air either at the trail side or nearby Sherpa\u00a0</span><span>villages. While on the trek you will also experience Sherpa culture, their traditional lifestyle and\u00a0</span><span>hospitality. You will stop at numerous teahouses, sip a glass of sweetened tea or Chang (millet\u00a0</span><span>beer) and get a taste of hospitality of the Sherpa community. You will also visit Buddhist\u00a0</span><span>monasteries on the way and learn about how Lamaistic Buddhism influences Sherpas life.\u00a0</span><span>Everest Base Camp trekking begins with an exciting flight to Lukla at 2840 meters and then you\u00a0</span><span>begin mountain journey through the picturesque Sherpa villages from Phakding to Gorakshep\u00a0</span><span>(5140m.) via Namche Bazaar, eventually culminating in the \"ascent\" of Kala Pattar (5545m.).\u00a0</span><span>From Kala Pattar, the highest point of the trek, you will enjoy classic views of Mt. Everest, Mt.\u00a0</span><span>Lhotse, Mt. Nuptse Mt. Makalu, Mt. Cho Oyo, Mt Ama Dablam, Mt. Cholatse, Mt. Kangtega,\u00a0</span><span>Mt. Thamserku, and many other summits. Most of the time you will walk above altitudes of\u00a0</span><span>3000 meters in the Khumbu and Imja valleys, whose skylines are dominated by the massive\u00a0</span><span>peaks of the Eastern Himalayas. In April- May the rhododendrons are seen in full blooming with\u00a0</span><span>orchids growing all along the trails in and around the Sagarmatha National Park.\u00a0</span><span>Trek to Everest Base Camp does not require you to be an athlete or experienced hiker and\u00a0</span><span>climber. Anyone in good physical fitness and who exercises on a regular basis can comfortably\u00a0</span><span>and safely complete this trekking. However, you have to make difficult and sometimes long days\u00a0</span><span>walking to Base Camp and hiking up Kala Pattar but you have to make a slow and steady pace of\u00a0</span><span>walk.</span></p>",
+    "publish_date": "2015-04-16T06:39:16Z",
+    "titles": "Everest Base Camp Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-16T13:15:49.457Z"
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 4,
+    "title": "Gokyo - Chola Pass & Everest Base Camp Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/khumbr.jpg",
+    "short_url": null,
+    "slug": "gokyo-chola-pass-everest-base-camp-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 3,
+    "description": "Gokyo - Chola Pass &amp; Everest Base Camp Trekking is one of the most adventurous and challenging trek in the Everest Region. It follows the route via high pass called Chola Pass at 5420 meters into Mt. Everest Base Camp",
+    "rating_average": 4.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T07:27:30.632Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>4 nights' accommodation in Kathmandu</p>\n<p>Breakfast and accommodation on trek</p>\n<p>All necessary paper works and Sagarmatha National Park entry permit</p>\n<p>All accommodations in lodges/tea houses during the trek.</p>\n<p>Trekkers\u2019 Information Management System (TIMS) Permit.</p>\n<p>An experienced, helpful, friendly and English speaking trekking Guide</p>\n<p>Necessary porters (1 porter for 2 people) each porter carries 30 kg</p>\n<p>Salary, Food, Drinks, Accommodation, domestic flight &amp; Insurance of our trekking guide</p>\n<p>Salary, Food, Drinks, Accommodation, and Insurance for porters from Lukla</p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>Applicable government taxes (13% VAT and service charges)</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": false,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Nepal Entry Visa</p>\n<p>Food in Kathmandu such as lunch and dinner</p>\n<p>Bottled drinks (mineral water, any cold drinks &amp; alcoholic drinks) while on trek</p>\n<p>Travel, medical &amp; emergency rescue by helicopter (need to pay by your insurance)</p>\n<p>Your international flight ticket and airport departure tax</p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Expenses of personal nature such as laundry, telephone, bar bills, tips, battery recharge,\u00a0<span>extra porters, bottle or boiled water, shower etc</span></p>\n<p>Arrangement of Helicopter service for rescue in case of emergency in the mountain (the\u00a0<span>cost incurred during the rescue will be paid by your insurance company)</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>Gokyo - Chola Pass &amp; Everest Base Camp Trekking is one of the most adventurous and\u00a0<span>challenging trek in the Everest Region. It follows the route via high pass called Chola Pass at\u00a0</span><span>5420 meters into Mt. Everest Base Camp (5364m.). Trekking to Gokyo - Chola Pass &amp; Everest\u00a0</span><span>Base Camp begins with an amazing flight to Lukla. From Lukla you will walk uphill slowly\u00a0</span><span>following the trail to the Dudh Kosi (it means \u2018River of Milk\u2019), and all through forests of\u00a0</span><span>rhododendron, pine and magnolia. After few hours of trekking you will eventually reach\u00a0</span><span>Namche Bazaar (3,340 m) and spend one more day at Namche Bazaar (the delightful Sherpa\u00a0</span><span>capital) for acclimatization and optional hike around. From Namche you will visit other Sherpa\u00a0</span><span>villages such as Phortse Tanga and Machhermo before heading for Gokyo Lake.\u00a0</span><span>After you reach Gokyo Lake you climb Gokyo Ri (5369m.) and from the top of Gokyo Ri you\u00a0</span><span>will enjoy stunning peaks of different mountains such as Mt. Everest, Mt. Lhotse, Mt. Nuptse\u00a0</span><span>Mt. Makalu, Mt. Cho Oyo, Mt Ama Dablam, Mt. Cholatse, Mt. Kangtega, Mt. Thamserku, and\u00a0</span><span>many others. Then, next day you cross Chola Pass (5420m.) and reach at Dzongla. After\u00a0</span><span>Dzongla you move towards Gorakshep and ascend to Kala Pattar (5545m.). From Kala Pattar\u00a0</span><span>you enjoy an impressive up-close view of Mt. Everest. Then, next day morning you trek to\u00a0</span><span>Everest Base Camp. When you return from Everest Base Camp you follow the route through </span><span>Pangboche and Namche Bazaar. While on trek you will enjoy the incredible mountain scenery\u00a0</span><span>until you reach Lukla airstrip. Next day morning you take a flight back to Kathmandu.\u00a0</span></p>\n<p>Gokyo - Chola Pass &amp; Everest Base Camp Trekking is popular for every traveler and group\u00a0<span>alike. It gives a complete scenario of different flora and fauna, rural lifestyle of the Sherpa\u00a0</span><span>people, Buddhism, monasteries and spectacular mountain scenery.</span></p>",
+    "publish_date": "2015-04-16T07:01:24Z",
+    "titles": "Gokyo - Chola Pass & Everest Base Camp Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-21T07:16:55.309Z"
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 3,
+    "title": "Annapurna Full Circuit Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/rolwaling.jpg",
+    "short_url": null,
+    "slug": "annapurna-full-circuit-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 4,
+    "description": "Annapurna Circuit trekking is a classic 150-mile long trek that encircles the entire Annapurna massif and fills with stunning views of Annapurna Himalayan range consisting of Annapurna, Machhapuchhre, and Nilgiri, the Dhaulagiri Mountain Range and the Manaslu Mountain Range. En",
+    "rating_average": 3.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T08:20:43.226Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>4 nights hotel accommodation in Kathmandu with breakfast</p>\n<p>1 night hotel accommodation in Pokhara with breakfast</p>\n<p>Trekking accommodation in trekkers lodge /Tea house</p>\n<p>English speaking local trekking guide</p>\n<p>Necessary porters to carry your baggage during the trekking.( Two persons get one\u00a0<span>trekking porter)</span></p>\n<p>Breakfast and accommodation on trek</p>\n<p>Annapurna Conservation area entry permit</p>\n<p>Trekker\u2019s Information Management system (TIMS)</p>\n<p>Monuments entry fee during sightseeing tour of Pokhara valley</p>\n<p>Private or local land transport as per the program</p>\n<p>Insurance for Nepalese staff. ( Trekking guide and porters)</p>\n<p>Guide and porters salary, food, drinks, accommodations</p>\n<p>Arrangement of Helicopter service for rescue in case of emergency in the mountain (the\u00a0<span>cost incurred during the rescue will be paid by your insurance company)</span></p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>Applicable government taxes (13% VAT and service charges)</p>\n<p>Airport drop at the time of departure</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": false,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Nepal entry visa</p>\n<p>Domestic airport tax</p>\n<p>Your Travel/Medical insurance</p>\n<p>Lunch &amp; dinner in Kathmandu and Pokhara</p>\n<p>Hot shower while on trek</p>\n<p>Single supplements in hotels in Kathmandu</p>\n<p>Bar bills and laundry</p>\n<p>Optional trips not specified in the itinerary</p>\n<p>Tipping to guide and porter</p>\n<p>Battery Charges ( Available during trek with Extra cost)</p>\n<p>Personal trekking equipment</p>\n<p>Drinks (including tea) and Bar Bill (beverage)</p>\n<p>Helicopter evacuation/rescue in case of emergency</p>\n<p>Donation to the local organization/ school</p>",
+    "content": "<p>Annapurna Circuit trekking is a classic 150-mile long trek that encircles the entire Annapurna\u00a0<span>massif and fills with stunning views of Annapurna Himalayan range consisting of Annapurna,\u00a0</span><span>Machhapuchhre, and Nilgiri, the Dhaulagiri Mountain Range and the Manaslu Mountain Range.</span></p>\n<p>En route we pass through spectacular settlements inhabited by diverse ethnic group of people and\u00a0<span>landscapes from lowland farming country to alpine meadows to the Tibet-like country on the\u00a0</span><span>northern slopes of the Himalaya.\u00a0</span><span>We start in the foothills at Besi Sahar and reach after 6 days to the settlement of Manang at\u00a0</span><span>3500m where we acclimatise and enjoy the mountain views. No place anywhere in Nepal looks\u00a0</span><span>similar to Mustangs\u2019 landscape .It lies behind the Annapurna range in rain shadow area which\u00a0</span><span>blocks the rain and is desert like landscape. From Manang we continue to ascend slowly and on\u00a0</span><span>day 10 of the trek we cross the famous Thorung La, at 5416m, and head for Muktinath, an\u00a0</span><span>important pilgrimage site for Hindus and Buddhists. Crossing Thorang La pass is technically\u00a0</span><span>easy and wonderful experience.\u00a0</span><span>After crossing Thorang La pass we make easy but long descend into the Kali Gandaki river\u00a0</span><span>valley, with Annapurna and Dhaulagiri towering on either side.Then, we visit Muktinath. If you\u00a0</span><span>are religiously inclined, you can take a bath in 108 taps and 2 ponds in the temple premises to\u00a0</span><span>relieve yourself of all your sins as per the sayings of Hindu religion.</span></p>\n<p>Further down we visit Tatopani where we take bath at hot natural springs and relax. Then, we\u00a0<span>climb up Poon Hill, above Ghorepani, to enjoy magnificent mountain views. En route back to\u00a0</span><span>Pokhara we pass through many beautiful Gurung villages that populate this ancient trading route\u00a0</span><span>between Tibet and India.\u00a0</span><span>Accommodation and food is provided in the local lodges along the trail. Transport to Besi Sahar\u00a0</span><span>is by local or private coach depending on the travel plan and the return to Kathmandu from\u00a0</span><span>Pokhara is by road.</span></p>",
+    "publish_date": "2015-04-16T07:32:37Z",
+    "titles": "Annapurna Full Circuit Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-21T07:17:06.598Z"
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 4,
+    "title": "Ghorepani-Poon Hill Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/manang.jpg",
+    "short_url": null,
+    "slug": "ghorepani-poon-hill-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 5,
+    "description": "Ghorepani Poon Hill Trek is one of the shortest and most popular cultural treks to experience culture and lifestyle of the Gurung communities in the Annapurna region. The trail leads us through beautiful sub tropical valleys, dense forests of rhododendron",
+    "rating_average": 4.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T09:26:09.004Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>4 nights hotel accommodation in Kathmandu with breakfast</p>\n<p>3 nights hotel accommodation in Pokhara with breakfast</p>\n<p>Trekking accommodation in trekkers lodge /Tea house</p>\n<p>English speaking local trekking guide</p>\n<p>Necessary porters to carry your baggage during the trekking.( Two persons get one\u00a0<span>trekking porter)</span></p>\n<p>Breakfast and accommodation on trek</p>\n<p>Annapurna Conservation area entry permit</p>\n<p>Trekker\u2019s Information Management system (TIMS)</p>\n<p>Monuments entry fee during sightseeing tour of Pokhara valley</p>\n<p>Private or local transport as per the program</p>\n<p>Insurance for Nepalese staff. ( Trekking guide and porters)</p>\n<p>Guide and porters salary, food, drinks, accommodations</p>\n<p>Arrangement of Helicopter service for rescue in case of emergency in the mountain (the\u00a0<span>cost incurred during the rescue will be paid by your insurance company)</span></p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>Government Tax (13%) and service charge</p>\n<p>Airport drop at the time of departure</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": false,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Lunch &amp; Dinner in Kathmandu and Pokhara</p>\n<p>Nepal entry visa fee (you will easily get the visa upon your arrival at Tribhuwan\u00a0<span>International Airport)</span></p>\n<p>Your international flight ticket and airport departure tax</p>\n<p>Personal equipments</p>\n<p>High risk medical insurance</p>\n<p>Hot drinks , Alcoholic beverages, Telephone calls and laundry</p>\n<p>Soft drinks such as cola, mineral water</p>\n<p>Battery recharge, extra porters, shower etc during the trek</p>\n<p>Emergency rescue evacuation if needed (need to pay by your insurance)</p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>Ghorepani Poon Hill Trek is one of the shortest and most popular cultural treks to experience\u00a0<span>culture and lifestyle of the Gurung communities in the Annapurna region. The trail leads us\u00a0</span><span>through beautiful sub tropical valleys, dense forests of rhododendron and icy waterfalls. We can\u00a0</span><span>view around every corner during the trek soaring Himalayan peaks such as Mt. Dhaulagiri\u00a0</span><span>(8,167m.), Mt. Annapurna I (8,091m.), Mt. Machapurhre (Fish Tail) (6993m), Mt. Tukuche\u00a0</span><span>(6920m), Mt. Nilgiri ( 6940m), Mt. Hiunchuli (6441m), Mt. Annapurna South (7219m), Mt.\u00a0</span><span>Lamjung Himal (6931m) and some other many smaller peaks during the trip. From Poon Hill\u00a0</span><span>(3210m.) we can see the best view of sunrise and Himalayan mountain range early in the\u00a0</span><span>morning. This entire trekking area is mainly dominated by the Gurungs and Magars both are\u00a0</span><span>ethnic people of Nepal. Dense Rhododendron forests, varieties of bird species, deep sub-tropical\u00a0</span><span>valleys, traditional villages, age-old tradition and culture, hospitable people, ever-smiling faces\u00a0</span><span>of the people, majestic mountain views are the major attractions of this trek.</span></p>\n<p>Ghandruk village provides an insight into the lifestyles of Gurung ethnic community of Nepal.\u00a0<span>Here, you will see how orderly rows of neat slate- roofed houses are clustered on the canyon wall\u00a0</span><span>amidst a complicated network of farming terraces. In addition, you will enjoy with great views of\u00a0</span><span>Himalayas that includes Macchapuchre (Fishtail) and Annapurna South. From Pokhara it is just\u00a0</span><span>42 kilometers drive and 5\u20136 hours in walking distance.\u00a0</span><span>Pothana is another popular village where you will also encounter same Gurung ethnic\u00a0</span><span>community like in the Ghandruk village. This village is situated on the ridge of hill from where\u00a0</span><span>you can enjoy the spectacular view of Annapurna Himalayan range, Fishtail and green valley of\u00a0</span><span>Pokhara.</span></p>\n<p>Simplytour.com can make the itinerary shorter without including Ghandruk village as per\u00a0<span>client\u2019s requirements. Those who have longer holiday can go via Ghandruk and end the trek in\u00a0</span><span>Pokhara. And, those who have short holiday and prefer to trek only up to Ghorepani and end the\u00a0</span><span>trek in Dhampus Phedi is also possible. We recommend Ghorepani-Poon Hill and Ghandruk trek\u00a0</span><span>because on this route you will enjoy the best panoramic Mountain View, experience Gurung\u00a0</span><span>culture and lifestyle and make a circuit.\u00a0</span></p>",
+    "publish_date": "2015-04-16T09:04:05Z",
+    "titles": "Ghorepani-Poon Hill Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-21T07:17:14.787Z"
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 2,
+    "title": "Langtang and Gosainkund Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/langtang.jpg",
+    "short_url": null,
+    "slug": "langtang-and-gosainkund-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 6,
+    "description": "Langtang is considered Nepal's third most popular trekking region after Annapurna and Everest. Trek to Langtang and Gosainkund takes you straight into some of the wildest and most picturesque areas of Nepal. Starting from the lovely hill town of Syabrubensi,",
+    "rating_average": 2.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T10:03:11.436Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>3 nights hotel accommodation in Kathmandu with breakfast</p>\n<p>Trekking accommodation in trekkers lodge /Tea house</p>\n<p>English speaking local trekking guide</p>\n<p>Necessary porters to carry your baggage during the trekking.( Two persons get one\u00a0<span>trekking porter)</span></p>\n<p>Breakfast and accommodation on trek</p>\n<p>Langtang National Park entry permit</p>\n<p>Trekker\u2019s Information Management system (TIMS)</p>\n<p>Private or local transport as per the program</p>\n<p>Insurance for Nepalese staff. ( Trekking guide and porters)</p>\n<p>Guide and porters salary, food, drinks, accommodations</p>\n<p>Arrangement of Helicopter service for rescue in case of emergency in the mountain (the\u00a0<span>cost incurred during the rescue will be paid by your insurance company)</span></p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>Government Tax(13%) and service charge</p>\n<p>Airport drop at the time of departure</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": false,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Lunch &amp; Dinner in Kathmandu</p>\n<p>Nepal entry visa fee (you will easily get the visa upon your arrival at Tribhuwan\u00a0<span>International Airport)</span></p>\n<p>Your international flight ticket and airport departure tax</p>\n<p>Personal equipments</p>\n<p>High risk medical insurance</p>\n<p>Hot drinks , Alcoholic beverages, Telephone calls and laundry</p>\n<p>Soft drinks such as cola, mineral water</p>\n<p>Battery recharge, extra porters, shower etc during the trek</p>\n<p>Emergency rescue evacuation if needed (need to pay by your insurance)</p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>Langtang is considered Nepal's third most popular trekking region after Annapurna and Everest.\u00a0<span>Trek to Langtang and Gosainkund takes you straight into some of the wildest and most\u00a0</span><span>picturesque areas of Nepal. Starting from the lovely hill town of Syabrubensi, you will trek\u00a0</span><span>through beautiful and conifer forests of the Langtang National Park towards the higher altitude.</span></p>\n<p>In the spring, the entire trekking route looks like a natural garden of wild colorful flowers. First\u00a0<span>you will reach the Langtang valley and then walk over the high alpine yak pastures, glaciers and </span><span>moraines around Kyangin and trek further up the Sacred Lake of Gosainkund (4380 m). The area</span><span>around Lake Gosainkund is most of the time enveloped in mist, and on clear weather we can see\u00a0</span><span>beautiful mountains to the north. In the winter the lake remains frozen. Here, you will find peace\u00a0</span><span>and serene environment. Gosainkund is sacred for both Hindus and Buddhist, and every full\u00a0</span><span>moon day in the month of August many visitors throng to celebrate the Gosainkund festival.\u00a0</span><span>From Gosainkund you will enjoy panoramic views of snow-clad mountains extended as far as\u00a0</span><span>Annapurna Himalayan Range. The large black rock in the middle of the Gosainkund Lake is </span><span>regarded as remains of Shiva and it is believed that the waters of the lake flow through the\u00a0</span><span>underground channel to the water basin of Khumbheshwar temple in Patan.\u00a0</span><span>At this higher altitude, the terrain transforms to arid alpine above tree line and the population\u00a0</span><span>gets sparser. Crossing Laurabina Yak La Pass at (4,615m), adjoining the Gosainkund and\u00a0</span><span>Helambu regions is another challenge for the adventure enthusiasts.\u00a0</span><span>During the Langtang and Gosainkund trekking you will have an opportunity to explore the whole\u00a0</span><span>range of Himalayan topography, ethnic culture and lifestyle of the local people. Besides, you will\u00a0</span><span>also have a chance to see some interesting animals and birds at the side of trails. Among those\u00a0</span><span>found in the Langtang National Park are monkeys, musk deer, pika and the national bird of\u00a0</span><span>Nepal, the colourful pheasant.</span></p>",
+    "publish_date": "2015-04-16T09:35:59Z",
+    "titles": "Langtang and Gosainkund Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-21T07:17:25.165Z"
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.package",
+  "fields": {
+    "parent": null,
+    "other_info": [],
+    "porter_days": 0,
+    "rating_sum": 2,
+    "title": "Langtang Valley Trekking",
+    "guide_days": 0,
+    "porter_required": false,
+    "guides": [],
+    "featured_image": "uploads/featured_images/chepang.jpg",
+    "short_url": null,
+    "slug": "langtang-valley-trekking",
+    "status": 2,
+    "porters": [],
+    "_order": 7,
+    "description": "Langtang Valley lies just north of Kathmandu between the main Himalayan ranges and a slightly lower range of snowy peaks south of the Tibetan border. Trekking to Langtang valley takes us into high alpine yak pastures, glaciers and moraines around",
+    "rating_average": 2.0,
+    "guide_required": false,
+    "expiry_date": null,
+    "created": "2015-04-16T10:29:14.749Z",
+    "in_sitemap": true,
+    "include": "<p>Airport pick up and transfer to hotel</p>\n<p>Three nights hotel accommodation in Kathmandu with breakfast</p>\n<p>Trekking accommodation in trekkers lodge /Tea house</p>\n<p>English speaking local trekking guide</p>\n<p>Necessary porters to carry your baggage during the trekking.( Two persons get one\u00a0<span>trekking porter)</span></p>\n<p>Breakfast and accommodation on trek</p>\n<p>Langtang National Park entry permit</p>\n<p>Trekker\u2019s Information Management system (TIMS)</p>\n<p>Private or local transport as per the program</p>\n<p>Insurance for Nepalese staff. ( Trekking guide and porters)</p>\n<p>Guide and porters salary, food, drinks, accommodations</p>\n<p>Arrangement of Helicopter service for rescue in case of emergency in the mountain (the\u00a0<span>cost incurred during the rescue will be paid by your insurance company)</span></p>\n<p>Medical supplies (first aid kit will be available).</p>\n<p>Government Tax(13%) and service charge</p>\n<p>Airport drop at the time of departure</p>",
+    "login_required": false,
+    "rating_count": 1,
+    "provided_by": 1,
+    "gen_description": true,
+    "is_featured": false,
+    "keywords_string": "",
+    "site": 1,
+    "_meta_title": "",
+    "exclude": "<p>Lunch &amp; Dinner in Kathmandu</p>\n<p>Nepal entry visa fee (you will easily get the visa upon your arrival at Tribhuwan\u00a0<span>International Airport)</span></p>\n<p>Your international flight ticket and airport departure tax</p>\n<p>Personal equipments</p>\n<p>High risk medical insurance</p>\n<p>Hot drinks , Alcoholic beverages, Telephone calls and laundry</p>\n<p>Soft drinks such as cola, mineral water</p>\n<p>Battery recharge, extra porters, shower etc during the trek</p>\n<p>Emergency rescue evacuation if needed (need to pay by your insurance)</p>\n<p>Extra night accommodation in Kathmandu because of early return from the trekking (due\u00a0<span>to any reason)</span></p>\n<p>Tips &amp; Gratuities for trekking guide &amp; porter (s)</p>",
+    "content": "<p>Langtang Valley lies just north of Kathmandu between the main Himalayan ranges and a slightly\u00a0<span>lower range of snowy peaks south of the Tibetan border. Trekking to Langtang valley takes us\u00a0</span><span>into high alpine yak pastures, glaciers and moraines around Kyanjing Gompa and offers us an\u00a0</span><span>opportunity to explore ethnic villages and diverse flora and fauna. In the Langtang valley you\u00a0</span><span>will find a small settlement of Sherpa people whereas the lower part of the valley such as\u00a0</span><span>Dhunche, Bharkhu and Syabru are mainly inhabited by Tamang ethnic group of people. Both\u00a0</span><span>these ethnic groups of people follow Buddhism and practice their respective culture and\u00a0</span><span>tradition. They earn their livelihood herding yak, sheep and producing buckwheat, potatoes,\u00a0</span><span>wheat and barley in the fields. Their houses are made of stones and wood covered with flat zinc\u00a0</span><span>roof that has tons of stone placed on top to secure them from flying.</span></p>\n<p><span>According to legend, the Langtang valley was discovered by one Buddhist monk following a\u00a0</span><span>runaway yaks. This is how the name-Langtang word is derived, Lang means Yak and tang means\u00a0</span><span>to follow. Langtang Valley Trek can be completed in 9 days starts and ends in Kathmandu. We\u00a0</span><span>begin the trek from Dhunche heading uphill to Lama Hotel and Langtang village until we arrive\u00a0</span><span>at the famous Kyanjing Gompa. Here, you will find Yaks everywhere. The view of Langtang\u00a0</span><span>Lirung and its glacier is beautiful. En route you will pass by the cheese factory and the ancient \u00a0</span><span>old monastery. From Kyanjing Gompa you can hike early in the morning up to Kyanjing Ri\u00a0</span><span>(4773m) and enjoy the view of the Langtang Lirung becoming orange and slowly turn to white.\u00a0</span><span>After exploring the Langtang valley, we retrace the same route to Syabrubesi from where we\u00a0</span><span>catch a transport and drive back to Kathmandu.\u00a0</span><span>Langtang Valley Trekking is a highly recommended medium- hard trek that can be arranged\u00a0</span><span>throughout the year. Simplytour.com organize all tours and treks all over Nepal according to the\u00a0</span><span>clients' interest, time and budget.</span></p>",
+    "publish_date": "2015-04-16T10:08:23Z",
+    "titles": "Langtang Valley Trekking",
+    "content_model": "trekpackage",
+    "is_archived": false,
+    "updated": "2015-04-21T07:17:33.524Z"
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 1,
+    "_order": 0
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 2,
+    "package": 1,
+    "_order": 1
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 3,
+    "package": 1,
+    "_order": 2
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 4,
+    "package": 1,
+    "_order": 3
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 5,
+    "package": 1,
+    "_order": 4
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 6,
+    "package": 1,
+    "_order": 5
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 7,
+    "package": 1,
+    "_order": 6
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 8,
+    "package": 1,
+    "_order": 7
+  }
+},
+{
+  "pk": 9,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 9,
+    "package": 1,
+    "_order": 8
+  }
+},
+{
+  "pk": 10,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 10,
+    "package": 1,
+    "_order": 9
+  }
+},
+{
+  "pk": 11,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 11,
+    "package": 1,
+    "_order": 10
+  }
+},
+{
+  "pk": 12,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 12,
+    "package": 1,
+    "_order": 11
+  }
+},
+{
+  "pk": 13,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 2,
+    "_order": 0
+  }
+},
+{
+  "pk": 14,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 2,
+    "package": 2,
+    "_order": 1
+  }
+},
+{
+  "pk": 15,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 13,
+    "package": 2,
+    "_order": 2
+  }
+},
+{
+  "pk": 16,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 14,
+    "package": 2,
+    "_order": 3
+  }
+},
+{
+  "pk": 17,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 15,
+    "package": 2,
+    "_order": 4
+  }
+},
+{
+  "pk": 18,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 16,
+    "package": 2,
+    "_order": 5
+  }
+},
+{
+  "pk": 19,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 17,
+    "package": 2,
+    "_order": 6
+  }
+},
+{
+  "pk": 20,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 18,
+    "package": 2,
+    "_order": 7
+  }
+},
+{
+  "pk": 21,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 19,
+    "package": 2,
+    "_order": 8
+  }
+},
+{
+  "pk": 22,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 20,
+    "package": 2,
+    "_order": 9
+  }
+},
+{
+  "pk": 23,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 21,
+    "package": 2,
+    "_order": 10
+  }
+},
+{
+  "pk": 24,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 22,
+    "package": 2,
+    "_order": 11
+  }
+},
+{
+  "pk": 25,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 23,
+    "package": 2,
+    "_order": 12
+  }
+},
+{
+  "pk": 26,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 24,
+    "package": 2,
+    "_order": 13
+  }
+},
+{
+  "pk": 27,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 25,
+    "package": 2,
+    "_order": 14
+  }
+},
+{
+  "pk": 28,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 26,
+    "package": 2,
+    "_order": 15
+  }
+},
+{
+  "pk": 29,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 27,
+    "package": 2,
+    "_order": 16
+  }
+},
+{
+  "pk": 30,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 3,
+    "_order": 0
+  }
+},
+{
+  "pk": 31,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 2,
+    "package": 3,
+    "_order": 1
+  }
+},
+{
+  "pk": 32,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 3,
+    "package": 3,
+    "_order": 2
+  }
+},
+{
+  "pk": 33,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 4,
+    "package": 3,
+    "_order": 3
+  }
+},
+{
+  "pk": 34,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 5,
+    "package": 3,
+    "_order": 4
+  }
+},
+{
+  "pk": 35,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 6,
+    "package": 3,
+    "_order": 5
+  }
+},
+{
+  "pk": 36,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 28,
+    "package": 3,
+    "_order": 6
+  }
+},
+{
+  "pk": 37,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 29,
+    "package": 3,
+    "_order": 7
+  }
+},
+{
+  "pk": 38,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 30,
+    "package": 3,
+    "_order": 8
+  }
+},
+{
+  "pk": 39,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 31,
+    "package": 3,
+    "_order": 9
+  }
+},
+{
+  "pk": 40,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 32,
+    "package": 3,
+    "_order": 10
+  }
+},
+{
+  "pk": 41,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 33,
+    "package": 3,
+    "_order": 11
+  }
+},
+{
+  "pk": 42,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 34,
+    "package": 3,
+    "_order": 12
+  }
+},
+{
+  "pk": 43,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 35,
+    "package": 3,
+    "_order": 13
+  }
+},
+{
+  "pk": 44,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 36,
+    "package": 3,
+    "_order": 14
+  }
+},
+{
+  "pk": 45,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 37,
+    "package": 3,
+    "_order": 15
+  }
+},
+{
+  "pk": 46,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 38,
+    "package": 3,
+    "_order": 16
+  }
+},
+{
+  "pk": 47,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 4,
+    "_order": 0
+  }
+},
+{
+  "pk": 48,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 2,
+    "package": 4,
+    "_order": 1
+  }
+},
+{
+  "pk": 49,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 3,
+    "package": 4,
+    "_order": 2
+  }
+},
+{
+  "pk": 50,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 4,
+    "package": 4,
+    "_order": 3
+  }
+},
+{
+  "pk": 51,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 5,
+    "package": 4,
+    "_order": 4
+  }
+},
+{
+  "pk": 52,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 39,
+    "package": 4,
+    "_order": 5
+  }
+},
+{
+  "pk": 53,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 40,
+    "package": 4,
+    "_order": 6
+  }
+},
+{
+  "pk": 54,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 41,
+    "package": 4,
+    "_order": 7
+  }
+},
+{
+  "pk": 55,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 42,
+    "package": 4,
+    "_order": 8
+  }
+},
+{
+  "pk": 56,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 43,
+    "package": 4,
+    "_order": 9
+  }
+},
+{
+  "pk": 57,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 44,
+    "package": 4,
+    "_order": 10
+  }
+},
+{
+  "pk": 58,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 45,
+    "package": 4,
+    "_order": 11
+  }
+},
+{
+  "pk": 59,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 46,
+    "package": 4,
+    "_order": 12
+  }
+},
+{
+  "pk": 60,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 47,
+    "package": 4,
+    "_order": 13
+  }
+},
+{
+  "pk": 61,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 48,
+    "package": 4,
+    "_order": 14
+  }
+},
+{
+  "pk": 62,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 49,
+    "package": 4,
+    "_order": 15
+  }
+},
+{
+  "pk": 63,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 50,
+    "package": 4,
+    "_order": 16
+  }
+},
+{
+  "pk": 64,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 51,
+    "package": 4,
+    "_order": 17
+  }
+},
+{
+  "pk": 65,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 52,
+    "package": 4,
+    "_order": 18
+  }
+},
+{
+  "pk": 66,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 5,
+    "_order": 0
+  }
+},
+{
+  "pk": 67,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 2,
+    "package": 5,
+    "_order": 1
+  }
+},
+{
+  "pk": 68,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 53,
+    "package": 5,
+    "_order": 2
+  }
+},
+{
+  "pk": 69,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 54,
+    "package": 5,
+    "_order": 3
+  }
+},
+{
+  "pk": 70,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 55,
+    "package": 5,
+    "_order": 4
+  }
+},
+{
+  "pk": 71,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 56,
+    "package": 5,
+    "_order": 5
+  }
+},
+{
+  "pk": 72,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 57,
+    "package": 5,
+    "_order": 6
+  }
+},
+{
+  "pk": 73,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 58,
+    "package": 5,
+    "_order": 7
+  }
+},
+{
+  "pk": 74,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 59,
+    "package": 5,
+    "_order": 8
+  }
+},
+{
+  "pk": 75,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 60,
+    "package": 5,
+    "_order": 9
+  }
+},
+{
+  "pk": 76,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 61,
+    "package": 5,
+    "_order": 10
+  }
+},
+{
+  "pk": 77,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 62,
+    "package": 5,
+    "_order": 11
+  }
+},
+{
+  "pk": 78,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 63,
+    "package": 5,
+    "_order": 12
+  }
+},
+{
+  "pk": 79,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 64,
+    "package": 5,
+    "_order": 13
+  }
+},
+{
+  "pk": 80,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 65,
+    "package": 5,
+    "_order": 14
+  }
+},
+{
+  "pk": 81,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 66,
+    "package": 5,
+    "_order": 15
+  }
+},
+{
+  "pk": 82,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 67,
+    "package": 5,
+    "_order": 16
+  }
+},
+{
+  "pk": 83,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 68,
+    "package": 5,
+    "_order": 17
+  }
+},
+{
+  "pk": 84,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 69,
+    "package": 5,
+    "_order": 18
+  }
+},
+{
+  "pk": 85,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 70,
+    "package": 5,
+    "_order": 19
+  }
+},
+{
+  "pk": 86,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 71,
+    "package": 5,
+    "_order": 20
+  }
+},
+{
+  "pk": 87,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 72,
+    "package": 5,
+    "_order": 21
+  }
+},
+{
+  "pk": 88,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 6,
+    "_order": 0
+  }
+},
+{
+  "pk": 89,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 2,
+    "package": 6,
+    "_order": 1
+  }
+},
+{
+  "pk": 90,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 13,
+    "package": 6,
+    "_order": 2
+  }
+},
+{
+  "pk": 91,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 14,
+    "package": 6,
+    "_order": 3
+  }
+},
+{
+  "pk": 92,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 15,
+    "package": 6,
+    "_order": 4
+  }
+},
+{
+  "pk": 93,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 73,
+    "package": 6,
+    "_order": 5
+  }
+},
+{
+  "pk": 94,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 74,
+    "package": 6,
+    "_order": 6
+  }
+},
+{
+  "pk": 95,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 75,
+    "package": 6,
+    "_order": 7
+  }
+},
+{
+  "pk": 96,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 76,
+    "package": 6,
+    "_order": 8
+  }
+},
+{
+  "pk": 97,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 77,
+    "package": 6,
+    "_order": 9
+  }
+},
+{
+  "pk": 98,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 78,
+    "package": 6,
+    "_order": 10
+  }
+},
+{
+  "pk": 99,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 79,
+    "package": 6,
+    "_order": 11
+  }
+},
+{
+  "pk": 100,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 80,
+    "package": 6,
+    "_order": 12
+  }
+},
+{
+  "pk": 101,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 81,
+    "package": 6,
+    "_order": 13
+  }
+},
+{
+  "pk": 102,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 7,
+    "_order": 0
+  }
+},
+{
+  "pk": 103,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 82,
+    "package": 7,
+    "_order": 1
+  }
+},
+{
+  "pk": 104,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 83,
+    "package": 7,
+    "_order": 2
+  }
+},
+{
+  "pk": 105,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 84,
+    "package": 7,
+    "_order": 3
+  }
+},
+{
+  "pk": 106,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 85,
+    "package": 7,
+    "_order": 4
+  }
+},
+{
+  "pk": 107,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 86,
+    "package": 7,
+    "_order": 5
+  }
+},
+{
+  "pk": 108,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 87,
+    "package": 7,
+    "_order": 6
+  }
+},
+{
+  "pk": 109,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 88,
+    "package": 7,
+    "_order": 7
+  }
+},
+{
+  "pk": 110,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 89,
+    "package": 7,
+    "_order": 8
+  }
+},
+{
+  "pk": 111,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 90,
+    "package": 7,
+    "_order": 9
+  }
+},
+{
+  "pk": 112,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 91,
+    "package": 7,
+    "_order": 10
+  }
+},
+{
+  "pk": 113,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 92,
+    "package": 7,
+    "_order": 11
+  }
+},
+{
+  "pk": 114,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 93,
+    "package": 7,
+    "_order": 12
+  }
+},
+{
+  "pk": 115,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 94,
+    "package": 7,
+    "_order": 13
+  }
+},
+{
+  "pk": 116,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 95,
+    "package": 7,
+    "_order": 14
+  }
+},
+{
+  "pk": 117,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 96,
+    "package": 7,
+    "_order": 15
+  }
+},
+{
+  "pk": 118,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 1,
+    "package": 8,
+    "_order": 0
+  }
+},
+{
+  "pk": 119,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 97,
+    "package": 8,
+    "_order": 1
+  }
+},
+{
+  "pk": 120,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 98,
+    "package": 8,
+    "_order": 2
+  }
+},
+{
+  "pk": 121,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 99,
+    "package": 8,
+    "_order": 3
+  }
+},
+{
+  "pk": 122,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 100,
+    "package": 8,
+    "_order": 4
+  }
+},
+{
+  "pk": 123,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 101,
+    "package": 8,
+    "_order": 5
+  }
+},
+{
+  "pk": 124,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 102,
+    "package": 8,
+    "_order": 6
+  }
+},
+{
+  "pk": 125,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 103,
+    "package": 8,
+    "_order": 7
+  }
+},
+{
+  "pk": 126,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 104,
+    "package": 8,
+    "_order": 8
+  }
+},
+{
+  "pk": 127,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 105,
+    "package": 8,
+    "_order": 9
+  }
+},
+{
+  "pk": 128,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 106,
+    "package": 8,
+    "_order": 10
+  }
+},
+{
+  "pk": 129,
+  "model": "packages.packageitinerary",
+  "fields": {
+    "item": 107,
+    "package": 8,
+    "_order": 11
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.place",
+  "fields": {
+    "name": "Kathmandu"
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.place",
+  "fields": {
+    "name": "Lukla"
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.place",
+  "fields": {
+    "name": "Phakding"
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.place",
+  "fields": {
+    "name": "Namche Bazaar"
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.place",
+  "fields": {
+    "name": "Tengboche"
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.place",
+  "fields": {
+    "name": "Monjo"
+  }
+},
+{
+  "pk": 9,
+  "model": "packages.place",
+  "fields": {
+    "name": "Pokhara"
+  }
+},
+{
+  "pk": 10,
+  "model": "packages.place",
+  "fields": {
+    "name": "Naya Pul"
+  }
+},
+{
+  "pk": 11,
+  "model": "packages.place",
+  "fields": {
+    "name": "Tikhedhunga"
+  }
+},
+{
+  "pk": 12,
+  "model": "packages.place",
+  "fields": {
+    "name": "Ghorepani"
+  }
+},
+{
+  "pk": 13,
+  "model": "packages.place",
+  "fields": {
+    "name": "Tadapani"
+  }
+},
+{
+  "pk": 14,
+  "model": "packages.place",
+  "fields": {
+    "name": "Chhomrong village"
+  }
+},
+{
+  "pk": 15,
+  "model": "packages.place",
+  "fields": {
+    "name": "Himalaya Hotel"
+  }
+},
+{
+  "pk": 16,
+  "model": "packages.place",
+  "fields": {
+    "name": "Annapurna Base Camp"
+  }
+},
+{
+  "pk": 17,
+  "model": "packages.place",
+  "fields": {
+    "name": " Dovan  \u2013 Sinuwa "
+  }
+},
+{
+  "pk": 18,
+  "model": "packages.place",
+  "fields": {
+    "name": "Jhinu Danda"
+  }
+},
+{
+  "pk": 19,
+  "model": "packages.place",
+  "fields": {
+    "name": "Pothana"
+  }
+},
+{
+  "pk": 20,
+  "model": "packages.place",
+  "fields": {
+    "name": "Dingboche"
+  }
+},
+{
+  "pk": 21,
+  "model": "packages.place",
+  "fields": {
+    "name": "Lobuche"
+  }
+},
+{
+  "pk": 22,
+  "model": "packages.place",
+  "fields": {
+    "name": "Gorakshep"
+  }
+},
+{
+  "pk": 23,
+  "model": "packages.place",
+  "fields": {
+    "name": "Pheriche"
+  }
+},
+{
+  "pk": 24,
+  "model": "packages.place",
+  "fields": {
+    "name": "Phortse Tanga"
+  }
+},
+{
+  "pk": 25,
+  "model": "packages.place",
+  "fields": {
+    "name": "Machhermo"
+  }
+},
+{
+  "pk": 26,
+  "model": "packages.place",
+  "fields": {
+    "name": "Gokyo"
+  }
+},
+{
+  "pk": 27,
+  "model": "packages.place",
+  "fields": {
+    "name": "Thagnag"
+  }
+},
+{
+  "pk": 28,
+  "model": "packages.place",
+  "fields": {
+    "name": "Chola Pass"
+  }
+},
+{
+  "pk": 29,
+  "model": "packages.place",
+  "fields": {
+    "name": "Dzongla"
+  }
+},
+{
+  "pk": 30,
+  "model": "packages.place",
+  "fields": {
+    "name": "Beshisahar"
+  }
+},
+{
+  "pk": 31,
+  "model": "packages.place",
+  "fields": {
+    "name": "Chamje"
+  }
+},
+{
+  "pk": 32,
+  "model": "packages.place",
+  "fields": {
+    "name": "Dharapani"
+  }
+},
+{
+  "pk": 33,
+  "model": "packages.place",
+  "fields": {
+    "name": "Chame"
+  }
+},
+{
+  "pk": 34,
+  "model": "packages.place",
+  "fields": {
+    "name": "Pisang"
+  }
+},
+{
+  "pk": 35,
+  "model": "packages.place",
+  "fields": {
+    "name": "Manang"
+  }
+},
+{
+  "pk": 36,
+  "model": "packages.place",
+  "fields": {
+    "name": "ChuriLeder"
+  }
+},
+{
+  "pk": 37,
+  "model": "packages.place",
+  "fields": {
+    "name": "Thorung Phedi Base Camp"
+  }
+},
+{
+  "pk": 38,
+  "model": "packages.place",
+  "fields": {
+    "name": "Muktinath"
+  }
+},
+{
+  "pk": 39,
+  "model": "packages.place",
+  "fields": {
+    "name": "Marpha"
+  }
+},
+{
+  "pk": 40,
+  "model": "packages.place",
+  "fields": {
+    "name": "Kalopani Lete"
+  }
+},
+{
+  "pk": 41,
+  "model": "packages.place",
+  "fields": {
+    "name": "Tatopani"
+  }
+},
+{
+  "pk": 42,
+  "model": "packages.place",
+  "fields": {
+    "name": "Ghandruk village"
+  }
+},
+{
+  "pk": 43,
+  "model": "packages.place",
+  "fields": {
+    "name": "Poon Hill"
+  }
+},
+{
+  "pk": 44,
+  "model": "packages.place",
+  "fields": {
+    "name": "Dhunche"
+  }
+},
+{
+  "pk": 45,
+  "model": "packages.place",
+  "fields": {
+    "name": "Thulo Syabru"
+  }
+},
+{
+  "pk": 46,
+  "model": "packages.place",
+  "fields": {
+    "name": "Lama Hotel"
+  }
+},
+{
+  "pk": 47,
+  "model": "packages.place",
+  "fields": {
+    "name": "Langtang"
+  }
+},
+{
+  "pk": 48,
+  "model": "packages.place",
+  "fields": {
+    "name": "Kyanjing Gompa"
+  }
+},
+{
+  "pk": 49,
+  "model": "packages.place",
+  "fields": {
+    "name": "Shing Gompa"
+  }
+},
+{
+  "pk": 50,
+  "model": "packages.place",
+  "fields": {
+    "name": "Gosaikunda"
+  }
+},
+{
+  "pk": 51,
+  "model": "packages.place",
+  "fields": {
+    "name": "Syabru Bensi"
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Arrival Kathmandu and transfer to hotel",
+    "duration": "3",
+    "title": "Arrival Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "500",
+    "end_time": "12:07:37",
+    "days": "1",
+    "starting_time": "09:04:25"
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Kathmandu City Sightseeing",
+    "duration": "7",
+    "title": "Kathmandu City Sightseeing",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "2500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 3,
+    "description": "Fly to Lukla (2840m.) & Trek to Phakding (2610 m.) ",
+    "duration": "7",
+    "title": "Fly to Lukla & Trek to Phakding",
+    "provided_by": 1,
+    "ending_place": 4,
+    "price": "3000",
+    "end_time": "18:05:22",
+    "days": "1",
+    "starting_time": "11:21:28"
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 4,
+    "description": "Trek Phakding to Namche Bazaar (3340m.) approx 6 hrs",
+    "duration": "8",
+    "title": "Trek Phakding to Namche Bazaar",
+    "provided_by": 1,
+    "ending_place": 6,
+    "price": "1500",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "07:22:44"
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 6,
+    "description": "Rest & acclimatization day in Namche Bazaar Excursion to Everest view hotel, Khumjung village & back to Namche Bazaar (3340m.)     ",
+    "duration": "8",
+    "title": "Rest & acclimatization day and Excursion",
+    "provided_by": 1,
+    "ending_place": 6,
+    "price": "2000",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "07:10:35"
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 6,
+    "description": "Trek Namche Bazaar to Tengboche (3860m.)",
+    "duration": "6",
+    "title": "Trek Namche Bazaar to Tengboche",
+    "provided_by": 1,
+    "ending_place": 7,
+    "price": "1200",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 7,
+    "description": "Trek Tengboche to Namche Bazaar (3340m.)",
+    "duration": "6",
+    "title": "Trek Tengboche to Namche Bazaar",
+    "provided_by": 1,
+    "ending_place": 6,
+    "price": "1000",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 6,
+    "description": "Trek Namche Bazaar to Monjo (2835m.) ",
+    "duration": "6",
+    "title": "Trek Namche Bazaar to Monjo",
+    "provided_by": 1,
+    "ending_place": 8,
+    "price": "1600",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 9,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 8,
+    "description": "Trek Monjo to Lukla (2840m.)",
+    "duration": "7",
+    "title": "Trek Monjo to Lukla",
+    "provided_by": 1,
+    "ending_place": 3,
+    "price": "1200",
+    "end_time": "15:00:08",
+    "days": "1",
+    "starting_time": "07:10:35"
+  }
+},
+{
+  "pk": 10,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 3,
+    "description": "Fly Lukla to Kathmandu and transfer to hotel",
+    "duration": "5",
+    "title": "Fly Lukla to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "5000",
+    "end_time": "16:10:49",
+    "days": "1",
+    "starting_time": "09:11:28"
+  }
+},
+{
+  "pk": 11,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "8",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "10000",
+    "end_time": "18:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 12,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "3",
+    "title": "Transfer to international airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1000",
+    "end_time": "14:34:20",
+    "days": "1",
+    "starting_time": "11:33:40"
+  }
+},
+{
+  "pk": 13,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Drive to Pokhara (820m.)",
+    "duration": "5",
+    "title": "Drive to Pokhara",
+    "provided_by": 1,
+    "ending_place": 9,
+    "price": "1500",
+    "end_time": "15:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 14,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 10,
+    "description": "Drive to Naya Pul (1070m.) & Trek Naya Pul to Tikhedhunga (1540m.) approx 3-4 hrs",
+    "duration": "4",
+    "title": "Drive to Naya Pul & Trek Naya Pul to Tikhedhunga",
+    "provided_by": 1,
+    "ending_place": 11,
+    "price": "1200",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "11:57:14"
+  }
+},
+{
+  "pk": 15,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 11,
+    "description": "Trek Tikhedhunga to Ghorepani (2750m.) approx. 5-6 hrs",
+    "duration": "6",
+    "title": "Trek Tikhedhunga to Ghorepani",
+    "provided_by": 1,
+    "ending_place": 12,
+    "price": "1800",
+    "end_time": "15:00:08",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 16,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 12,
+    "description": "Climb Ghorepani to Poon Hill (3210m.) to enjoy sunrise view and trek continue to Tadapani (2590m.) ",
+    "duration": "7",
+    "title": "Climb Ghorepani to Poon Hill and trek continue to Tadapani",
+    "provided_by": 1,
+    "ending_place": 13,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 17,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 13,
+    "description": "Trek Tadapani to Chhomrong village (2170m.) ",
+    "duration": "7",
+    "title": "Trek Tadapani to Chhomrong village",
+    "provided_by": 1,
+    "ending_place": 14,
+    "price": "1600",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 18,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 14,
+    "description": "Trek Chhomrong to Himalaya Hotel (2790m.)",
+    "duration": "6",
+    "title": "Trek Chhomrong to Himalaya Hotel",
+    "provided_by": 1,
+    "ending_place": 15,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "18:05:20"
+  }
+},
+{
+  "pk": 19,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 15,
+    "description": "Trek Himalaya Hotel to Annapurna Base Camp (4130m.) via Deurali, Machhapuchhare Base Camp (3700m.) and trek continue to Annapurna Base Camp",
+    "duration": "8",
+    "title": "Trek Himalaya Hotel to Annapurna Base Camp",
+    "provided_by": 1,
+    "ending_place": 16,
+    "price": "1700",
+    "end_time": "18:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 20,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 16,
+    "description": "Trek Annapurna Base Camp to Dovan (2505m.) \u2013 Sinuwa (2340m.) ",
+    "duration": "7",
+    "title": "Trek Annapurna Base Camp to Dovan  \u2013 Sinuwa ",
+    "provided_by": 1,
+    "ending_place": 17,
+    "price": "2000",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 21,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 17,
+    "description": "Trek Dovan-Sinuwa to Jhinu Danda (1780m.) (Relax Natural Hot Spring at Jhinu Kola) ",
+    "duration": "8",
+    "title": "Trek Dovan-Sinuwa to Jhinu Danda",
+    "provided_by": 1,
+    "ending_place": 18,
+    "price": "2500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 22,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 18,
+    "description": "Trek Jhinu Danda to Pothana (1900m.) via Landruk (1565m.), Tolka (1700m.), Bhickok Deurali (2100m.) and trek continue to Pothana",
+    "duration": "6",
+    "title": "Trek Jhinu Danda to Pothana",
+    "provided_by": 1,
+    "ending_place": 19,
+    "price": "1800",
+    "end_time": "15:00:08",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 23,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 19,
+    "description": "Trek Pothana to Phedi (1130m.) approx. 2-3 hrs via Dhampus (1650m.),  Phedi and drive to Pokhara (820m.) and transfer to hotel ",
+    "duration": "3",
+    "title": "Trek Pothana to Phedi and drive to Pokhara  and transfer to hotel ",
+    "provided_by": 1,
+    "ending_place": 9,
+    "price": "1500",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 24,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 9,
+    "description": "Pokhara City Sightseeing tour ",
+    "duration": "8",
+    "title": "Pokhara City Sightseeing tour ",
+    "provided_by": 1,
+    "ending_place": 9,
+    "price": "10000",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 25,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 9,
+    "description": "Drive to Kathmandu and transfer to hotel",
+    "duration": "5",
+    "title": "Drive to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "2000",
+    "end_time": "15:00:00",
+    "days": "1",
+    "starting_time": "09:00:00"
+  }
+},
+{
+  "pk": 26,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "15000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 27,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "4",
+    "title": "Transfer to international airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "2500",
+    "end_time": "18:00:00",
+    "days": "1",
+    "starting_time": "12:14:59"
+  }
+},
+{
+  "pk": 28,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 7,
+    "description": "Trek Tengboche to Dingboche (4410m.)",
+    "duration": "5",
+    "title": "Trek Tengboche to Dingboche",
+    "provided_by": 1,
+    "ending_place": 20,
+    "price": "1200",
+    "end_time": "15:00:08",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 29,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 20,
+    "description": "Rest day for acclimatization at Dingboche",
+    "duration": "5",
+    "title": "Rest day for acclimatization",
+    "provided_by": 1,
+    "ending_place": 20,
+    "price": "2000",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 30,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 20,
+    "description": "Trek Dingboche to Lobuche (4910m.)",
+    "duration": "6",
+    "title": "Trek Dingboche to Lobuche",
+    "provided_by": 1,
+    "ending_place": 21,
+    "price": "1500",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 31,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 21,
+    "description": "Trek Lobuche to Gorakshep (5140m.) & onward to Everest Base Camp (5364m.), overnight at Gorakshep. ",
+    "duration": "6",
+    "title": "Trek Lobuche to Gorakshep",
+    "provided_by": 1,
+    "ending_place": 22,
+    "price": "1500",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 32,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 22,
+    "description": "Climb Gorakshep to Kala Pattar (5545 m.) & ascend to Pheriche (4240m.)",
+    "duration": "6",
+    "title": "Climb Gorakshep to Kala Pattar",
+    "provided_by": 1,
+    "ending_place": 23,
+    "price": "2000",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "09:00:00"
+  }
+},
+{
+  "pk": 33,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 23,
+    "description": "Trek Pheriche to Tengboche (3860m.) ",
+    "duration": "5",
+    "title": "Trek Pheriche to Tengboche",
+    "provided_by": 1,
+    "ending_place": 7,
+    "price": "2500",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 34,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 7,
+    "description": "Trek Tengboche to Namche Bazaar (3440m.)",
+    "duration": "6",
+    "title": "Trek Tengboche to Namche Bazaar",
+    "provided_by": 1,
+    "ending_place": 6,
+    "price": "2300",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 35,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 6,
+    "description": "Trek Namche Bazaar to Lukla (2840m.)",
+    "duration": "7",
+    "title": "Trek Namche Bazaar to Lukla",
+    "provided_by": 1,
+    "ending_place": 3,
+    "price": "2500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 36,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 3,
+    "description": "Fly back Lukla to Kathmandu and transfer to hotel",
+    "duration": "4",
+    "title": "Fly back Lukla to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "3000",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "09:00:00"
+  }
+},
+{
+  "pk": 37,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "10000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 38,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "4",
+    "title": "Transfer to international airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1500",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 39,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 6,
+    "description": "Trek Namche Bazaar to Phortse Tanga (3680m.)",
+    "duration": "6",
+    "title": "Trek Namche Bazaar to Phortse Tanga",
+    "provided_by": 1,
+    "ending_place": 24,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 40,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 24,
+    "description": "Trek Phortse Tanga to Machhermo (4470m.) ",
+    "duration": "6",
+    "title": "Trek Phortse Tanga to Machhermo",
+    "provided_by": 1,
+    "ending_place": 25,
+    "price": "2000",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 41,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 25,
+    "description": "Trek Machhermo to Gokyo (4790m.)",
+    "duration": "6",
+    "title": "Trek Machhermo to Gokyo",
+    "provided_by": 1,
+    "ending_place": 26,
+    "price": "1600",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 42,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 26,
+    "description": "Climb Gokyo Gokyo Ri (5369m.) & trek to Thagnag (4700m.) ",
+    "duration": "6",
+    "title": "Climb Gokyo Gokyo Ri & trek to Thagnag",
+    "provided_by": 1,
+    "ending_place": 27,
+    "price": "1800",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 43,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 28,
+    "description": "Cross over Chola Pass (5420m.) and trek to Dzongla (4830m.)",
+    "duration": "6",
+    "title": "Cross over Chola Pass and trek to Dzongla",
+    "provided_by": 1,
+    "ending_place": 29,
+    "price": "2200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 44,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 29,
+    "description": "Trek Dzongla to Lobuche (4910 m)",
+    "duration": "6",
+    "title": "Trek Dzongla to Lobuche",
+    "provided_by": 1,
+    "ending_place": 21,
+    "price": "1800",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 45,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 21,
+    "description": "Trek Lobuche to Gorakshep (5140m.) , onward to Everest Base Camp (5364m.), overnight at Gorakshep",
+    "duration": "6",
+    "title": "Trek Lobuche to Gorakshep",
+    "provided_by": 1,
+    "ending_place": 22,
+    "price": "2200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 46,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 22,
+    "description": "Climb to  Kala Pattar (5545 m.) & ascend to Dingboche (4410m.)",
+    "duration": "6",
+    "title": "Climb to Kala Pattar & ascend to Dingboche",
+    "provided_by": 1,
+    "ending_place": 20,
+    "price": "2000",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 47,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 20,
+    "description": "Trek Dingboche to Tengboche (3860m.)",
+    "duration": "6",
+    "title": "Trek Dingboche to Tengboche",
+    "provided_by": 1,
+    "ending_place": 7,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 48,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 7,
+    "description": "Trek Tengboche to Namche Bazaar ",
+    "duration": "6",
+    "title": "Trek Tengboche to Namche Bazaar ",
+    "provided_by": 1,
+    "ending_place": 6,
+    "price": "1500",
+    "end_time": "18:05:22",
+    "days": "1",
+    "starting_time": "10:10:46"
+  }
+},
+{
+  "pk": 49,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 6,
+    "description": "Trek Namche Bazaar to Lukla",
+    "duration": "5",
+    "title": "Trek Namche Bazaar to Lukla",
+    "provided_by": 1,
+    "ending_place": 3,
+    "price": "1200",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "08:18:42"
+  }
+},
+{
+  "pk": 50,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 3,
+    "description": "Fly back Lukla to Kathmandu & transfer to hotel",
+    "duration": "5",
+    "title": "Fly back Lukla to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "2500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 51,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "10000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 52,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "4",
+    "title": "Transfer to international airport for your final departure",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 53,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Drive Kathmandu to Beshisahar (823m)",
+    "duration": "5",
+    "title": "Drive Kathmandu to Beshisahar",
+    "provided_by": 1,
+    "ending_place": 30,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 54,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 30,
+    "description": "Drive Beshisahar to Chamje (1430 m)",
+    "duration": "5",
+    "title": "Drive Beshisahar to Chamje",
+    "provided_by": 1,
+    "ending_place": 31,
+    "price": "1400",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 55,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 31,
+    "description": "Trek Chamje to Dharapani (1860 m.)",
+    "duration": "5",
+    "title": "Trek Chamje to Dharapani",
+    "provided_by": 1,
+    "ending_place": 32,
+    "price": "1400",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 56,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 32,
+    "description": "Trek Dharapani to Chame (2670 m.)",
+    "duration": "5",
+    "title": "Trek Dharapani to Chame",
+    "provided_by": 1,
+    "ending_place": 33,
+    "price": "1200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 57,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 33,
+    "description": "Trek Chame to Pisang (3210 m.)",
+    "duration": "6",
+    "title": "Trek Chame to Pisang",
+    "provided_by": 1,
+    "ending_place": 34,
+    "price": "1500",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 58,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 34,
+    "description": "Trek Pisang to Manang (3540m.)",
+    "duration": "6",
+    "title": "Trek Pisang to Manang",
+    "provided_by": 1,
+    "ending_place": 35,
+    "price": "1200",
+    "end_time": "18:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 59,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 35,
+    "description": "Acclimatization at Manang",
+    "duration": "0",
+    "title": "Acclimatization at Manang",
+    "provided_by": 1,
+    "ending_place": 35,
+    "price": "2500",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 60,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 35,
+    "description": "Trek Manang to ChuriLeder (4200m.)",
+    "duration": "6",
+    "title": "Trek Manang to ChuriLeder",
+    "provided_by": 1,
+    "ending_place": 36,
+    "price": "2200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 61,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 36,
+    "description": "ChuriLeder to Thorung Phedi Base Camp (4450m.)",
+    "duration": "7",
+    "title": "ChuriLeder to Thorung Phedi Base Camp",
+    "provided_by": 1,
+    "ending_place": 37,
+    "price": "1800",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 62,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 37,
+    "description": "Cross Thorung La and trek to Muktinath (3800m)",
+    "duration": "0",
+    "title": "Cross Thorung La and trek to Muktinath",
+    "provided_by": 1,
+    "ending_place": 38,
+    "price": "2000",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 63,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 38,
+    "description": "Trek to Marpha (2670m) approximately time (7 hrs)",
+    "duration": "7",
+    "title": "Trek to Marpha",
+    "provided_by": 1,
+    "ending_place": 39,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 64,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 39,
+    "description": "Trek to Kalopani Lete (2480m) approximately time (7 hrs.) ",
+    "duration": "7",
+    "title": "Trek to Kalopani Lete",
+    "provided_by": 1,
+    "ending_place": 40,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 65,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 40,
+    "description": "Trek to Tatopani (Hot spring) (1190m)",
+    "duration": "7",
+    "title": "Trek to Tatopani",
+    "provided_by": 1,
+    "ending_place": 41,
+    "price": "2100",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 66,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 41,
+    "description": "Trek to Ghorepani (2750m) approximately time (8hrs.)",
+    "duration": "8",
+    "title": "Trek to Ghorepani",
+    "provided_by": 1,
+    "ending_place": 12,
+    "price": "2500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 67,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 12,
+    "description": "Get up early in the morning to Poon Hill (3210m/1 hr climbing) for the best sunrise &  back to Ghorepani for breakfast and trek to Tadapani (2660m, 5 hours)",
+    "duration": "5",
+    "title": "Trek to Tadapani",
+    "provided_by": 1,
+    "ending_place": 13,
+    "price": "2100",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 68,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 13,
+    "description": "Tadapani to Ghandruk village (2030m, 3 / 4 hrs)",
+    "duration": "4",
+    "title": "Tadapani to Ghandruk village",
+    "provided_by": 1,
+    "ending_place": 42,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 69,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 42,
+    "description": "Ghandruk village to Pokhara (850m, 4 hours walking and 2 hours driving) via Nayapul ",
+    "duration": "7",
+    "title": "Ghandruk village to Pokhara  via Nayapul ",
+    "provided_by": 1,
+    "ending_place": 9,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 70,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 9,
+    "description": "Drive from Pokhara to Kathmandu",
+    "duration": "6",
+    "title": "Drive from Pokhara to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "3000",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 71,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "10000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 72,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to airport, departure on your own destination",
+    "duration": "4",
+    "title": "Transfer to airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "2500",
+    "end_time": "14:11:31",
+    "days": "1",
+    "starting_time": "10:10:46"
+  }
+},
+{
+  "pk": 73,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 12,
+    "description": "Climb Ghorepani to Poon Hill (3210m.) for sunrise view and Annapurna Himal",
+    "duration": "5",
+    "title": "Climb Ghorepani to Poon Hill",
+    "provided_by": 1,
+    "ending_place": 43,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 74,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 13,
+    "description": "Trek Tadapani to Ghandruk village (1940m.)",
+    "duration": "6",
+    "title": "Trek Tadapani to Ghandruk village",
+    "provided_by": 1,
+    "ending_place": 42,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 75,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 42,
+    "description": "Trek Ghandruk village to Jhinu Danda (1780m.) & relax in Natural Hot Spring ",
+    "duration": "6",
+    "title": "Trek Ghandruk village to Jhinu Danda",
+    "provided_by": 1,
+    "ending_place": 18,
+    "price": "1900",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 76,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 18,
+    "description": "Trek Jhinu Danda to Pothana (1900m.)",
+    "duration": "5",
+    "title": "Trek Jhinu Danda to Pothana",
+    "provided_by": 1,
+    "ending_place": 19,
+    "price": "2000",
+    "end_time": "16:06:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 77,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 19,
+    "description": "Trek Pothana to Phedi (1130m.) via Dhampus (1650m.) and drive to Pokhara",
+    "duration": "8",
+    "title": "Trek Pothana to Phedi",
+    "provided_by": 1,
+    "ending_place": 9,
+    "price": "2500",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 78,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 9,
+    "description": "Pokhara City Sightseeing",
+    "duration": "0",
+    "title": "Pokhara City Sightseeing",
+    "provided_by": 1,
+    "ending_place": 9,
+    "price": "3000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 79,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 9,
+    "description": "Drive back to Kathmandu",
+    "duration": "6",
+    "title": "Drive back to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1800",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:18:42"
+  }
+},
+{
+  "pk": 80,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "10000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 81,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "3",
+    "title": "Transfer to international airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1200",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "10:10:46"
+  }
+},
+{
+  "pk": 82,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Drive Kathmandu (1350m.) to Dhunche (1960m.)",
+    "duration": "6",
+    "title": "Drive Kathmandu to Dhunche",
+    "provided_by": 1,
+    "ending_place": 44,
+    "price": "1200",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 83,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 44,
+    "description": "Trek Dhunche to Thulo Syabru (Khedi) (2250m.)",
+    "duration": "5",
+    "title": "Trek Dhunche to Thulo Syabru (Khedi)",
+    "provided_by": 1,
+    "ending_place": 45,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 84,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 45,
+    "description": "Trek Thulo Syabru (Khedi) to Lama Hotel (2500m.)",
+    "duration": "7",
+    "title": "Trek Thulo Syabru (Khedi) to Lama Hotel",
+    "provided_by": 1,
+    "ending_place": 46,
+    "price": "1230",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 85,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 46,
+    "description": "Trek Lama Hotel to Langtang Village (3430m.)",
+    "duration": "6",
+    "title": "Trek Lama Hotel to Langtang Village",
+    "provided_by": 1,
+    "ending_place": 47,
+    "price": "1450",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 86,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 47,
+    "description": "Trek Langtang Village to Kyanjing Gompa (3830m.)",
+    "duration": "8",
+    "title": "Trek Langtang Village to Kyanjing Gompa",
+    "provided_by": 1,
+    "ending_place": 48,
+    "price": "1550",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 87,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 48,
+    "description": "Rest/exportation day at Kyanjing Gompa. Visit the monastery and the cheese factory, walk up glaciers of Langtang Lirung or ascend Kyangjin Ri (4773m.) O/N at lodge",
+    "duration": "0",
+    "title": "Rest/exportation day",
+    "provided_by": 1,
+    "ending_place": 48,
+    "price": "500",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 88,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 48,
+    "description": "Trek Kyanjing Gompa to Lama Hotel (2500m.)",
+    "duration": "6",
+    "title": "Trek Kyanjing Gompa to Lama Hotel",
+    "provided_by": 1,
+    "ending_place": 46,
+    "price": "1000",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 89,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 46,
+    "description": "Trek Lama Hotel to Thulo Syabru(Khedi) (2250m.)",
+    "duration": "5",
+    "title": "Trek Lama Hotel to Thulo Syabru(Khedi)",
+    "provided_by": 1,
+    "ending_place": 45,
+    "price": "1200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 90,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 45,
+    "description": "Trek Thulo Syabru(Khedi) to Shing Gompa (3330m.)",
+    "duration": "7",
+    "title": "Trek Thulo Syabru(Khedi) to Shing Gompa",
+    "provided_by": 1,
+    "ending_place": 49,
+    "price": "1200",
+    "end_time": "18:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 91,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 49,
+    "description": "Trek Shing Gompa to Gosaikunda (4380m) approx. 5 hrs overnight at lodge",
+    "duration": "5",
+    "title": "Trek Shing Gompa to Gosaikunda",
+    "provided_by": 1,
+    "ending_place": 50,
+    "price": "1500",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 92,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 50,
+    "description": "Climb Gosaikunda early in the marooning we Climb to (Lauribina Pass) (4610m.) for sunrise view and many other mountains Peaks back to Gosaikunda and trek continue to Shing Gompa (3330m.) approx. 6-7 hrs overnight at lodge",
+    "duration": "8",
+    "title": "Climb, view and trek",
+    "provided_by": 1,
+    "ending_place": 49,
+    "price": "1200",
+    "end_time": "18:05:22",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 93,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 49,
+    "description": "Trek Sing Gompa to Dhunche (1960m.)",
+    "duration": "6",
+    "title": "Trek Sing Gompa to Dhunche",
+    "provided_by": 1,
+    "ending_place": 44,
+    "price": "1400",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 94,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 44,
+    "description": "Drive Dhunche back to Kathmandu (1350m.)",
+    "duration": "6",
+    "title": "Drive Dhunche back to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1600",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 95,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "2500",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 96,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "4",
+    "title": "Transfer to international airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1500",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 97,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Drive Kathmandu to Dhunche (1960m.) approx 8 hrs",
+    "duration": "8",
+    "title": "Drive Kathmandu to Dhunche",
+    "provided_by": 1,
+    "ending_place": 44,
+    "price": "1200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 98,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 44,
+    "description": "Trek Dhunche to Thulo Syabru (Khedi) (2250m.) approx 5 hrs",
+    "duration": "5",
+    "title": "Trek Dhunche to Thulo Syabru (Khedi)",
+    "provided_by": 1,
+    "ending_place": 45,
+    "price": "1000",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 99,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 45,
+    "description": "Trek Thulo Syabru (Khedi) to Lama Hotel (2500m.) approx 5 hrs",
+    "duration": "5",
+    "title": "Trek Thulo Syabru (Khedi) to Lama Hotel",
+    "provided_by": 1,
+    "ending_place": 46,
+    "price": "1200",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 100,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 46,
+    "description": "Trek Lama Hotel to Langtang Village (3430m.) approx 5 hrs",
+    "duration": "5",
+    "title": "Trek Lama Hotel to Langtang Village",
+    "provided_by": 1,
+    "ending_place": 47,
+    "price": "1100",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 101,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 47,
+    "description": "Trek Langtang Village to Kyanjing Gompa (3830m.) approx 3 hrs ",
+    "duration": "5",
+    "title": "Trek Langtang Village to Kyanjing Gompa",
+    "provided_by": 1,
+    "ending_place": 48,
+    "price": "1300",
+    "end_time": "15:11:33",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 102,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 48,
+    "description": "Rest/exportation day at Kyanjing Gompa. Visit the monastery and the cheese factory, walk up glaciers of Langtang Lirung or ascend Kyangjin Ri (4773m.)",
+    "duration": "6",
+    "title": "Rest/exportation day at Kyanjing Gompa.",
+    "provided_by": 1,
+    "ending_place": 48,
+    "price": "1200",
+    "end_time": "17:15:56",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 103,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 48,
+    "description": "Trek Kyanjing Gompa to Lama Hotel (2500m.) approx 6 hrs",
+    "duration": "6",
+    "title": "Trek Kyanjing Gompa to Lama Hotel",
+    "provided_by": 1,
+    "ending_place": 46,
+    "price": "1300",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 104,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 46,
+    "description": "Trek Lama Hotel to Syabru Bensi (1503m.) approx 5 hrs",
+    "duration": "5",
+    "title": "Trek Lama Hotel to Syabru Bensi",
+    "provided_by": 1,
+    "ending_place": 51,
+    "price": "1400",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "08:00:00"
+  }
+},
+{
+  "pk": 105,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 51,
+    "description": "Drive Syabru Bensi to Kathmandu (1350m.) approx 8 hrs",
+    "duration": "8",
+    "title": "Drive Syabru Bensi to Kathmandu",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1500",
+    "end_time": "17:00:00",
+    "days": "1",
+    "starting_time": "07:00:00"
+  }
+},
+{
+  "pk": 106,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Day reserved for optional activities",
+    "duration": "0",
+    "title": "Day reserved for optional activities",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "10000",
+    "end_time": "00:00:00",
+    "days": "1",
+    "starting_time": "06:00:00"
+  }
+},
+{
+  "pk": 107,
+  "model": "packages.itineraryitem",
+  "fields": {
+    "starting_place": 1,
+    "description": "Transfer to international airport for your final departure (Trip ends.)",
+    "duration": "3",
+    "title": "Transfer to international airport",
+    "provided_by": 1,
+    "ending_place": 1,
+    "price": "1500",
+    "end_time": "14:16:26",
+    "days": "1",
+    "starting_time": "10:10:46"
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.trekpackage",
+  "fields": {
+    "guides": [],
+    "porters": []
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1400",
+    "is_archived": false,
+    "starting_date": [
+      "2014-01-02"
+    ],
+    "package": 1,
+    "price_notes": "Budget cost",
+    "max_group_size": 10,
+    "standard": "1",
+    "discounted_price": "1315",
+    "booking_amount": "100",
+    "reduced_by": "5"
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1450",
+    "is_archived": false,
+    "starting_date": [
+      "2014-01-02"
+    ],
+    "package": 1,
+    "price_notes": "Standard Cost",
+    "max_group_size": 8,
+    "standard": "2",
+    "discounted_price": "1345",
+    "booking_amount": "200",
+    "reduced_by": "5"
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1400",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 2,
+    "price_notes": "Budget cost",
+    "max_group_size": 10,
+    "standard": "1",
+    "discounted_price": "1386",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1500",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 2,
+    "price_notes": "Standard Cost",
+    "max_group_size": 8,
+    "standard": "2",
+    "discounted_price": "1416",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1600",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 3,
+    "price_notes": "Budget cost",
+    "max_group_size": 10,
+    "standard": "1",
+    "discounted_price": "1572",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1650",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 3,
+    "price_notes": "Standard Cost",
+    "max_group_size": 8,
+    "standard": "2",
+    "discounted_price": "1600",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1800",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 4,
+    "price_notes": "Budget cost",
+    "max_group_size": 10,
+    "standard": "1",
+    "discounted_price": "1728",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1850",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 4,
+    "price_notes": "Standard Cost",
+    "max_group_size": 8,
+    "standard": "2",
+    "discounted_price": "1758",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 9,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "2100",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 5,
+    "price_notes": "Budget cost",
+    "max_group_size": 10,
+    "standard": "1",
+    "discounted_price": "2052",
+    "booking_amount": "100",
+    "reduced_by": "5"
+  }
+},
+{
+  "pk": 10,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "2150",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02"
+    ],
+    "package": 5,
+    "price_notes": "Standard Cost",
+    "max_group_size": 8,
+    "standard": "2",
+    "discounted_price": "2082",
+    "booking_amount": "100",
+    "reduced_by": "5"
+  }
+},
+{
+  "pk": 11,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1200",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02"
+    ],
+    "package": 6,
+    "price_notes": "Budget cost",
+    "max_group_size": 8,
+    "standard": "1",
+    "discounted_price": "1152",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 12,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1220",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02"
+    ],
+    "package": 6,
+    "price_notes": "Standard Cost",
+    "max_group_size": 8,
+    "standard": "2",
+    "discounted_price": "1182",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 13,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1450",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 7,
+    "price_notes": "Budget cost",
+    "max_group_size": 15,
+    "standard": "1",
+    "discounted_price": "1398",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 14,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1450",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02",
+      "2015-01-02"
+    ],
+    "package": 7,
+    "price_notes": "Standard Cost",
+    "max_group_size": 15,
+    "standard": "2",
+    "discounted_price": "1428",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 15,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1300",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02"
+    ],
+    "package": 8,
+    "price_notes": "Budget cost",
+    "max_group_size": 15,
+    "standard": "1",
+    "discounted_price": "1290",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 16,
+  "model": "packages.price",
+  "fields": {
+    "extra_content": "",
+    "min_group_size": 2,
+    "marked_price": "1350",
+    "is_archived": false,
+    "starting_date": [
+      "2015-01-02"
+    ],
+    "package": 8,
+    "price_notes": "Standard Cost",
+    "max_group_size": 15,
+    "standard": "2",
+    "discounted_price": "1320",
+    "booking_amount": "200",
+    "reduced_by": "2"
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>Chitwan, thrilling destination to feel the wildlife adventure of different kind \u00ad Jungle Safari,<span style=\"\">Elephant Bathing, Boating, Chepang Hill , Bird watching and lots more.</span></p>\n<p>JUNGLE SAFARI</p>\n<p>The most thrilling taste of nature can be felt during the jungle safari and the chances to see\u00a0<span style=\"\">animals in their natural habitat. Chitwan National Park, one of the Asia\u2019s finest place to observe\u00a0</span><span style=\"\">56 species of mammals, 49 species of amphibians and reptiles, and 525 species of birds. Rare\u00a0</span><span style=\"\">birds of world can be witnessed in National park territory. Many endangered species like the\u00a0</span><span style=\"\">one\u00adhorned rhinoceros, the Royal Bengal tiger, wild elephant, four\u00adhorned antelope, leopard,\u00a0</span><span style=\"\">sloth bear, wild boar, , grey langur monkey, and many other smaller animals can be seen here at\u00a0</span><span style=\"\">Chitwan National Park.</span></p>\n<p>ELEPHANT BATHING</p>\n<p><span style=\"\">Elephant bathing is next adventurous thing that should not be missed in Chitwan. Elephant loves\u00a0</span><span style=\"\">bathing and splashing water over the people riding on its back. Its truly natural experience to\u00a0</span><span style=\"\">feel.</span></p>\n<p>BOATING</p>\n<p>It is fun filled journey to visit those place where there are no roads to access the beauty. Many\u00a0<span style=\"\">visitors said that it is a package of excitement.</span></p>\n<p>CHEPANG HILL</p>\n<p>Chepang hill trek, is short trek which delivers magnificent views of the mountains and glorious\u00a0<span style=\"\">sunrise and sunset views. When the weather is clear you can see the views include a range of\u00a0</span><span style=\"\">Himalayan peaks such as Rolwaling, Dorje Lakpa, Gaurishankar, Langtang, Manaslu Range,\u00a0</span><span style=\"\">Himalchuli, Annapurna range, Dhaulagiri rare view flatland and spectacular sunrise and sunsets\u00a0</span><span style=\"\">can be clearly observed cultural experiences of chepang and other ethnic groups.</span></p>\n<p>BIRD WATCHING</p>\n<p><span style=\"\">The most popular place to watch rare bird is in Chitwan itself. There are more than 500 species\u00a0</span><span style=\"\">of bird. The innocent face of birds and their pleasing sound makes smile on visitors\u2019 face.\u00a0</span><span style=\"\">Photographer may capture the untamed beauty of birds.</span></p>\n<p>Beauty lies in experiencing rather than explaining.</p>",
+    "featured_image": "uploads/featured_images/chepang.jpg"
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>Nepal is the only country in the modern world that does not have a rectangular national flag,\u00a0<span style=\"\">consisting of two united pennant (triangular flag) shapes. It is crimson with blue borders and\u00a0</span><span style=\"\">incorporates stylized symbols of the sun and moon. The blue border on the flag of Nepal\u00a0</span><span style=\"\">signifies peace and harmony, whereas crimson color signifies victory and bravery; the color of\u00a0</span><span style=\"\">rhododendron(the national flower of Nepal). It is said that the national flag of Nepal anticipates\u00a0</span><span style=\"\">that the nation will last as long as the sun and moon is there on earth.\u00a0</span></p>\n<p>The moon represents the serenity of the Nepalese people and the cool weather in the Himalayas.\u00a0<span style=\"\">It also symbolizes the longevity of the kingdom. Likewise, the sun represents the fierce\u00a0</span><span style=\"\">persistence of the Nepalese people and the heat of the lower parts of Nepal. It also symbolizes\u00a0</span><span style=\"\">the perpetuity of the kingdom.\u00a0</span><span style=\"\">Until 1962, the flag\u2019s emblems, the sun and the crescent moon, had human faces. The faces were\u00a0</span><span style=\"\">removed in order to modernize the flag. The faces remained on the sun and the moon on the\u00a0</span><span style=\"\">Royal Standard until the abolition of the monarchy in 2008. The flag was adopted, with the\u00a0</span><span style=\"\">formation of a new constitutional government, on December 16, 1962. The individual pennants\u00a0</span><span style=\"\">had been used for the preceding two centuries and the double pennant since the 19th century.\u00a0</span><span style=\"\">Flag of Nepal is also known as most mathematically calculated flag ever and its written in the\u00a0</span><span style=\"\">constitution, which describes how it is constructed.</span></p>",
+    "featured_image": "uploads/featured_images/flag.png"
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>Mount Everest (8848ft), highest peak in the world, is also known as Chomolungma in Tibetan\u00a0<span style=\"\">language and Sagarmatha in Nepali language. It is located at Solukhumbu district in the range of\u00a0</span><span style=\"\">Mahalangur Himal, the great Himalayas. Sir Edmund Hillary and Tenzing Norgay were the first\u00a0</span><span style=\"\">to scale the mountain in 1953. It has been climbed for more than 5,600 times</span></p>\n<p><span style=\"\">Before climbing any mountain, weather and snow conditions should be at higher priority, in such\u00a0</span><span style=\"\">case experienced guide will help to forecast the overall conditions of that particular camp area.\u00a0</span><span style=\"\">Everest Base Camp (EBC), which basically has traditional infrastructure like: Kitchen/Dining\u00a0</span><span style=\"\">Tent, Sleeping Tent and Toilet Tent.</span></p>\n<p>The favorable season to climb Mt. Everest is the end of September through December. During\u00a0<span style=\"\">this period the weather tends to be relatively stable with mild to warm days and cold nights. Mid\u00a0</span><span style=\"\">October to November is a good time to get breathtaking views of the peak with calm and clear\u00a0</span><span style=\"\">weather. May, June, September, and October are moderate time to travel to Mt. Everest.</span><span style=\"\">Photographers may prefer April, as it is the best time to capture the flag\u00adlike cloud floating above\u00a0</span><span style=\"\">the peak..</span></p>",
+    "featured_image": "uploads/featured_images/mountain.jpg"
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>People have always wondered what it feels like to fly like a bird. Paragliding can give you a\u00a0<span style=\"\">wonderful flying experience. It is unique, simplest and adventurous sports that offers excitement,\u00a0</span><span style=\"\">relaxation for adventure\u00adseekers.</span></p>\n<p><span style=\"\">Paragliding in Nepal gives a breath\u00adtaking experience of pleasant and fantastic view of majestic\u00a0</span><span style=\"\">Himalayan including Annapurna and Dhaulagiri ranges while sharing the space in the air with\u00a0</span><span style=\"\">Himalayan griffin vultures, kites and eagle.Thrilling view of the temple(Tal Barahi) situated in\u00a0</span><span style=\"\">between the Fewa lake is breath taking . The famous place for paragliding in Nepal is the hilltop\u00a0</span><span style=\"\">of Sarangkot (1592m) from where the gliding takes off and lands in the open space beside the\u00a0</span><span style=\"\">Fewa lake giving the opportunity of observing beautiful landscapes of Pokhara Valley, the\u00a0</span><span style=\"\">mesmerizing Fewa lake, Machhapuchhre himal(Fishtail), Annapurna Himal. Himchuli, the Peace\u00a0</span><span style=\"\">Pagoda and greenaries around the lake.</span></p>\n<p><span style=\"\">Paragliding depends upon the weather condition. The favourable time for paragliding in Nepal\u00a0</span><span style=\"\">begins at September and ends in February during which, the weather is cool with clear visibility.\u00a0</span><span style=\"\">During this period, a clear view of Himalayas and beautiful sceneries can be observed.</span></p>\n<p>It is lightweight, free\u00adflying, foot\u00adlaunched glider aircraft.\u00a0<span style=\"\">Paragliding in Nepal gives a breath\u00adtaking experience of pleasant and fantastic view of majestic\u00a0</span><span style=\"\">Himalayan including Annapurna and Dhaulagiri ranges while sharing the space in the air with\u00a0</span><span style=\"\">Himalayan griffin vultures, kites and eagle.Thrilling view of the temple(Tal Barahi) situated in\u00a0</span><span style=\"\">between the Fewa lake is breath taking . The famous place for paragliding in Nepal is the hilltop\u00a0</span><span style=\"\">of Sarangkot (1592m) from where the gliding takes off and lands in the open space beside the\u00a0</span><span style=\"\">Fewa lake giving the opportunity of observing beautiful landscapes of Pokhara Valley, the\u00a0</span><span style=\"\">mesmerizing Fewa lake, Machhapuchhre himal(Fishtail), Annapurna Himal. Himchuli, the Peace\u00a0</span><span style=\"\">Pagoda and greenaries around the lake.</span></p>",
+    "featured_image": "uploads/featured_images/paragliding21.jpg"
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": true,
+    "content": "<p>There are many places to visit in Nepal. Pokhara is one of the most exciting and adventurous\u00a0<span style=\"\">place and is also known as piece of a heaven in earth. Pokhara, surrounded by different\u00a0</span><span style=\"\">Himalayan Ranges, commits the visitors with many unbelievable sceneries and adds up the value\u00a0</span><span style=\"\">in their experience by providing different remarkable places.</span></p>\n<p>Fewa Taal:</p>\n<p>Fewa taal, second largest lake in kingdom, is the center of attraction of Pokhara. The bank of this\u00a0<span style=\"\">lake is covered with the numbers of brightly colored wooden boats which are available for\u00a0</span><span style=\"\">renting giving an opportunity to explore the lake. The eastern part of this lake, also known as\u00a0</span><span style=\"\">lakeside, contains several hotels, lodges, restaurants and different souvenir shops. The lakeside\u00a0</span><span style=\"\">provides the magnificent view of mountain. Also, the island in the middle of the lake enhances\u00a0</span><span style=\"\">the glory of Fewa Taal.</span></p>\n<p>Barahi Temple:</p>\n<p>The Barahi temple, situated in the middle of the Fewa lake, is considered as the most important <span style=\"\">monument in Pokhara. It is the 2\u00adstoried pagoda dedicated to Ajima in the boar manifestation\u00a0</span><span style=\"\">and the representing the the force of Shakti(the mother of goddess). Worshipers can be seen\u00a0</span><span style=\"\">making their way carrying male animals for sacrifice especially on Saturdays,. The way to reach\u00a0</span><span style=\"\">this temple is by hiring the boats from the bank of the Fewa lake.</span></p>\n<p>World Peace Pagoda:</p>\n<p>World Peace Pagoda, balanced on a narrow ridge of the Fewa lake, is Buddhist Stupa presenting\u00a0<span style=\"\">an impressive sight. It is a great vantage point for the viewers which offers remarkable view of\u00a0</span><span style=\"\">Pokhara and Annapurna Ranges.</span></p>\n<p>David\u2019s Fall:</p>\n<p>David\u2019s Fall, also known as Patale Chhango(Hell\u2019s fall), is an amazing waterfall that creates the\u00a0<span style=\"\">sound of the water plunging over the falls. It was named Devi\u2019s Fall as according to local\u00a0</span><span style=\"\">legends, a Swiss visitor, named David, tumbled into the sinkhole and drowned. It is situated\u00a0</span><span style=\"\">about 2 km south\u00adwest of Pokhara airport on the way of Tansen, Butwal.</span></p>\n<p><span style=\"\">Gupteshwor Gupha, Mahendra Gupha and Chamero Gupha:</span></p>\n<p>Gupteshwor Gupha(cave) is situated just opposite to David\u2019s Fall. The cave is 3 km long with\u00a0<span style=\"\">some passages where you have to crawl your way out. Lying 2 km south\u00adwest of the Pokhara\u00a0</span><span style=\"\">airport, it holds special value in Hindu culture since the phallic symbol of Lord Shiva is\u00a0</span><span style=\"\">preserved in the condition it was discovered. At the end of the cave, the sight of the waterfall will\u00a0</span><span style=\"\">dazzle the spectators.</span></p>\n<p>Mahendra Gupha(cave) is one of the most popular visiting spot in Pokhara. It is located at the <span style=\"\">northern part of Pokhara. There are many transportation that can be found to get to this caves.\u00a0</span><span style=\"\">Guides are available to guide through the caves.\u00a0</span><span style=\"\">Chamero Gupha(cave), known as Chamero Odhaar(house of bats), is located near to Mahendra\u00a0</span><span style=\"\">cave with thousands of bats hanging from the ceiling of the cave. Guides are not required for\u00a0</span><span style=\"\">exploring the cave but some guidance can be taken to come out from the other side of the cave.</span></p>",
+    "featured_image": "uploads/featured_images/paragliding21.jpg"
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>Souvenir gives the essence of the beauty of the country. Still confused what to buy attractive\u00a0<span>souvenir in Nepal? Then, this will help you to select the best one among different alternatives.</span></p>\n<p>1. Thankas:</p>\n<p>It is pronounced as tangka, thanka or tanka, is a Tibetan Buddhist painting on cotton, or\u00a0<span>silk applique, usually depicting a Buddhist deity, scene, or mandala.</span></p>\n<p><br>2. Prayer Flag:</p>\n<p>It is a colorful rectangular cloth available in five different colors; Green, Blue, White,\u00a0<span>Red and Yellow, often found strung along mountain ridges and peaks high in the\u00a0</span><span>Himalayas.</span></p>\n<p><br>3. Khukuri:</p>\n<p>It is a characteristic weapon of the Nepalese Army, the Royal Gurkha Rifles and of all\u00a0<span>Gurkha brigade throughout the world, so much so that some English\u00adspeakers refer to the\u00a0</span><span>weapon as a \"Gurkha blade\" or \"Gurkha knife\".</span></p>\n<p><br>4. Dhaka Topi:</p>\n<p>It is a traditional Nepali hat worn in special occasion like; Marriage and others.</p>\n<p><br>5. Pashmina:</p>\n<p>It is made from the inner soft wool of goat, which is a special breed of native goat found in high\u00a0<span>altitudes of the Himalayas in Nepal.</span></p>\n<p><br>\u201cThe souvenir will make your relatives feel special and the memory will always be in your heart.\u201d</p>",
+    "featured_image": "uploads/featured_images/topi.jpg"
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>SHERPA, are courageous and dedicated people who first settled in the Solukhumbu District\u00a0<span style=\"\">(Khumbu), Nepal ;then they gradually moved westward along salt trade routes. Looking back at\u00a0</span><span style=\"\">the history, Khumbu Sherpa people accomplish autonomy within the newly formed Nepali state.\u00a0</span><span style=\"\">In the 1960s, as tension with China increased, Nepali government influence on the Sherpa people\u00a0</span><span style=\"\">grew.</span></p>\n<p>The bright smiles and remarkable strength of the Sherpas have been an intrinsic part of Everest\u00a0<span style=\"\">climbing expeditions from the very beginning. The strength of Sherpas have amazed many\u00a0</span><span style=\"\">visitors. They are well\u00adsuited for high\u00adaltitude climbing and apparently resistant to cold.\u00a0</span></p>\n<p>Some great Sherpas:</p>\n<p>Tenzing Norgay Sherpa</p>\n<p>Tenzing Norgay was born in Tshechu, presently in Tibet Autonomous Region, China. He grew\u00a0<span style=\"\">up in peasant family in Khumbu in Nepal. He was a Nepalese Sherpa mountaineer. He was\u00a0</span><span style=\"\">remembered by creating the history on May 29, 1953, when he and Sir Edmund Hillary became\u00a0</span><span style=\"\">the first men to conquer Mount Everest.\u00a0</span></p>\n<p>Apa Sherpa</p>\n<p>Apa Sherpa, who was born on 20 January 1960, nicknamed \"Super Sherpa\", is a Nepalese\u00a0<span style=\"\">Sherpa mountaineer who, jointly with Phurba Tashi, holds the record for reaching the summit of\u00a0</span><span style=\"\">Mount Everest more times than any other person. As part of The Eco Everest Expedition 2011,\u00a0</span><span style=\"\">Apa made his 21st Mount Everest summit in May 2011.</span></p>\n<p>Pasang Lhamu Sherpa</p>\n<p>Pasang Lhamu Sherpa, who was born into a mountaineering family and was involved in\u00a0<span style=\"\">climbing from her teens. She was the first Nepali woman to reach the summit of Mt. Everest, on\u00a0</span><span style=\"\">April 22,1993. She had successfully climbed Mont Blanc, Cho Oyu, Mount Yala peak, Pisang\u00a0</span><span style=\"\">Himal, and many others.</span></p>\n<p><em><strong>Sherpas are the pride to the nation with remarkable strength\u00a0<span style=\"\">and bravery</span></strong></em></p>",
+    "featured_image": "uploads/featured_images/sherpa.jpg"
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.article",
+  "fields": {
+    "rating_count": 0,
+    "zip_import": "",
+    "rating_average": 0.0,
+    "rating_sum": 0,
+    "is_featured": false,
+    "content": "<p>Pokhara is an amazing and one of the most beautiful city. All the people who visit Nepal can\u2019t\u00a0<span style=\"\">resist to visit this city of natural beauty. There are many things to do. And from those there are\u00a0</span><span style=\"\">some of the things that shouldn\u2019t be miss while visiting Pokhara.</span></p>\n<p>Top 5 Things To Do in Pokhara</p>\n<p>Paragliding :</p>\n<p>One thing a person can\u2019t do is fly. Paragliding give you that experience. Flying above the earth\u00a0<span style=\"\">surface viewing the majestic Himalayas, lakes, monasteries, temples and the greenery\u00a0</span><span style=\"\">surrounding the lake is an indescribable experience that no one could forget. Sarangkot is the\u00a0</span><span style=\"\">famous location for paragliding, from where the view of the beautiful Machhapuchhre\u00a0</span><span style=\"\">Himal(Fishtail) and the mesmerizing Fewa lake can be seen.\u00a0</span></p>\n<p><span style=\"\"></span><span style=\"\">Ultra\u00adlights:</span></p>\n<p>The next thing you don\u2019t wanna miss is the Ultra\u00adlights. It is an aircraft that flies at the maximum\u00a0<span style=\"\">height of 5000m giving you breathtaking view of entire Pokhara Valley. It is a two seated aircraft\u00a0</span><span style=\"\">that are operated from Pokhara airport. They can take off and land on dirt road or on the field. It\u00a0</span><span style=\"\">adds new perspective in exploring Annapurna and Dhaulagiri Ranges for an hour or more.</span></p>\n<p>Boating:</p>\n<p>Boating is one of the famous things to do in Pokhara. Boating in fewa taal with the flow of air\u00a0<span style=\"\">touching your body and the sound of water flowing gives you an amazing experience. The small\u00a0</span><span style=\"\">island in the middle of Fewa Taal that provide shelter for the temple known as \u201cTaal Barahi\u201d\u00a0</span><span style=\"\">enhances your experience of boating. The other two lakes, Begnas Taal and Rupa Taal, also\u00a0</span><span style=\"\">provide the service of boating. Boating can be done by hiring the boats for an hour or for a\u00a0</span><span style=\"\">whole day. The best way for boating experience is to rent the boat without the boatman and\u00a0</span><span style=\"\">going on the adventurous journey all by yourself. You can also visit different beautiful places\u00a0</span><span style=\"\">and places filled with greenery where there is no access of road. Winter season, from October\u00a0</span><span style=\"\">to February, is the best period for boating as the skies are clear, the mountains, covered with\u00a0</span><span style=\"\">snow, cast their shadow on the lake\u2019s calm water.</span></p>\n<p>Golf:</p>\n<p>Nepal is not only rich in Cultural heritage but it offers some finest golf courses in South Africa.\u00a0<span style=\"\">There are 2 golf courses in Pokhara, they are: Himalayan Golf Club and Fulbari Resort Golf\u00a0</span><span style=\"\">Course that offers the excellent golf course with magnificent view of Himalayas. the sports lover\u00a0</span><span style=\"\">can enjoy the playing golf with other facilities like spa and ayurvedic treatments.</span></p>\n<p>Sightseeing:</p>\n<p>Sightseeing the city is one of the greatest eye candy of all. One can go on a boat tour of\u00a0<span style=\"\">Phewa Lake with magnificent Barahi Temple at the heart of it. The Devi's Fall and the Hindu\u00a0</span><span style=\"\">shrine at Gupteshor Mahadev Cave give a fascinating experience of all time. Buying souvenir\u00a0</span><span style=\"\">in the Old Bazaar and exploring the world of mountaineering at the Mountain Museum is a\u00a0</span><span style=\"\">great way of spending more of the time in Pokhara. Not to forget the Seti Gandaki Gorge with\u00a0</span><span style=\"\">a spectacular views of the Himalayas.</span></p>",
+    "featured_image": "uploads/featured_images/devid_falls.jpg"
+  }
+},
+{
+  "pk": 1,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 1,
+    "title": "topi",
+    "file": "uploads/packages/topi.jpg",
+    "_order": 0,
+    "description": "topi"
+  }
+},
+{
+  "pk": 2,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 1,
+    "title": "buddhist",
+    "file": "uploads/packages/buddhist.jpg",
+    "_order": 1,
+    "description": "buddhist"
+  }
+},
+{
+  "pk": 3,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 1,
+    "title": "khukuri",
+    "file": "uploads/packages/khukuri.jpg",
+    "_order": 2,
+    "description": "khukuri"
+  }
+},
+{
+  "pk": 4,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 2,
+    "title": "Gupteshower ISGsvIT",
+    "file": "uploads/places-you-must-visit-in-pokhara/gupteshower_ISGsvIT.jpg",
+    "_order": 3,
+    "description": "Gupteshower ISGsvIT"
+  }
+},
+{
+  "pk": 5,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 2,
+    "title": "Devid Falls O3mrpW3",
+    "file": "uploads/places-you-must-visit-in-pokhara/devid_falls_o3mrpW3.JPG",
+    "_order": 4,
+    "description": "Devid Falls O3mrpW3"
+  }
+},
+{
+  "pk": 6,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 2,
+    "title": "Kays Lumix Nepal 204 T3qDtp5",
+    "file": "uploads/places-you-must-visit-in-pokhara/Kays Lumix Nepal 204_t3qDtp5.JPG",
+    "_order": 5,
+    "description": "Kays Lumix Nepal 204 T3qDtp5"
+  }
+},
+{
+  "pk": 7,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 2,
+    "title": "Phewa Taal UyfypQc",
+    "file": "uploads/places-you-must-visit-in-pokhara/Phewa_taal_UyfypQc.jpg",
+    "_order": 6,
+    "description": "Phewa Taal UyfypQc"
+  }
+},
+{
+  "pk": 8,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 2,
+    "title": "Stupa E5bRzPr",
+    "file": "uploads/places-you-must-visit-in-pokhara/stupa_E5bRzPr.jpg",
+    "_order": 7,
+    "description": "Stupa E5bRzPr"
+  }
+},
+{
+  "pk": 9,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 3,
+    "title": "Gupteshower IG90nYd",
+    "file": "uploads/things-to-do-in-pokhara/gupteshower_iG90nYd.jpg",
+    "_order": 8,
+    "description": "Gupteshower IG90nYd"
+  }
+},
+{
+  "pk": 10,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 3,
+    "title": "Devid Falls 9tTlLfm",
+    "file": "uploads/things-to-do-in-pokhara/devid_falls_9tTlLfm.JPG",
+    "_order": 9,
+    "description": "Devid Falls 9tTlLfm"
+  }
+},
+{
+  "pk": 11,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 3,
+    "title": "Kays Lumix Nepal 204 H5OGYm6",
+    "file": "uploads/things-to-do-in-pokhara/Kays Lumix Nepal 204_H5OGYm6.JPG",
+    "_order": 10,
+    "description": "Kays Lumix Nepal 204 H5OGYm6"
+  }
+},
+{
+  "pk": 12,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 3,
+    "title": "Phewa Taal 5OXF8AT",
+    "file": "uploads/things-to-do-in-pokhara/Phewa_taal_5OXF8AT.jpg",
+    "_order": 11,
+    "description": "Phewa Taal 5OXF8AT"
+  }
+},
+{
+  "pk": 13,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 3,
+    "title": "Stupa 4z8ktmx",
+    "file": "uploads/things-to-do-in-pokhara/stupa_4z8ktmx.jpg",
+    "_order": 12,
+    "description": "Stupa 4z8ktmx"
+  }
+},
+{
+  "pk": 14,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 5,
+    "title": "Bird",
+    "file": "uploads/chitwan-thrilling-destination/bird.jpg",
+    "_order": 13,
+    "description": "Bird"
+  }
+},
+{
+  "pk": 15,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 5,
+    "title": "Elephant Bath",
+    "file": "uploads/chitwan-thrilling-destination/elephant_bath.jpg",
+    "_order": 14,
+    "description": "Elephant Bath"
+  }
+},
+{
+  "pk": 16,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 5,
+    "title": "Chiwan Sunrise",
+    "file": "uploads/chitwan-thrilling-destination/chiwan_sunrise.jpeg",
+    "_order": 15,
+    "description": "Chiwan Sunrise"
+  }
+},
+{
+  "pk": 17,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 5,
+    "title": "Boating",
+    "file": "uploads/chitwan-thrilling-destination/boating.jpg",
+    "_order": 16,
+    "description": "Boating"
+  }
+},
+{
+  "pk": 18,
+  "model": "packages.articlegalleryimage",
+  "fields": {
+    "article": 5,
+    "title": "Chepang",
+    "file": "uploads/chitwan-thrilling-destination/chepang.jpg",
+    "_order": 17,
+    "description": "Chepang"
+  }
+}
+]
